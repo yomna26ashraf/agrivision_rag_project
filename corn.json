@@ -1,0 +1,2118 @@
+[
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Healthy",
+    "scientific_name": "Zea mays L.",
+    "disease_type": "Healthy",
+    "pathogen": "None",
+    "severity": "None",
+    "affected_parts": [
+      "Leaves",
+      "Stalk",
+      "Roots",
+      "Ears",
+      "Tassels",
+      "Silks"
+    ],
+    "symptoms": [
+      "Normal leaf color and appearance",
+      "Normal stem and stalk characteristics",
+      "Normal tassel and silk characteristics",
+      "Normal ear and kernel appearance",
+      "Healthy root characteristics",
+      "Normal growth characteristics"
+    ],
+    "early_stage": [
+      "Uniform seedling emergence",
+      "Vibrant green color appropriate to hybrid",
+      "Vigorous early root development",
+      "Erect and sturdy stalk formation"
+    ],
+    "advanced_stage": [
+      "Optimal canopy closure",
+      "Proper tassel development and uniform pollen shed",
+      "Synchronized silk emergence",
+      "Full kernel set with appropriate dry-down"
+    ],
+    "causes": [
+      "Optimal environmental conditions",
+      "Proper agricultural practices",
+      "Balanced soil fertility",
+      "Adequate moisture management"
+    ],
+    "favorable_conditions": [
+      "Balanced soil moisture",
+      "Optimal temperature range (20-30°C)",
+      "Well-drained fertile soils",
+      "Adequate sunlight"
+    ],
+    "spread_method": [],
+    "prevention": [
+      "Crop rotation with non-host crops",
+      "Use of certified disease-free and high-quality seeds",
+      "Proper field sanitation and residue management",
+      "Balanced fertilization based on soil tests"
+    ],
+    "treatment": [],
+    "organic_control": [],
+    "chemical_control": [],
+    "recommended_fungicides": [],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [],
+    "nutrition_recommendations": [
+      "Apply nitrogen in split applications to prevent leaching",
+      "Ensure adequate phosphorus for early root development",
+      "Maintain optimal potassium levels for stalk strength and water regulation",
+      "Monitor secondary nutrients and micronutrients like zinc and sulfur"
+    ],
+    "irrigation_recommendations": [
+      "Maintain adequate moisture throughout the growing season, especially during critical flowering and grain fill stages",
+      "Avoid over-irrigation to prevent root asphyxiation and root rots",
+      "Utilize scheduling tools like soil moisture sensors or evapotranspiration models"
+    ],
+    "monitoring": [
+      "Conduct routine scouting throughout the vegetative and reproductive stages",
+      "Monitor for early signs of nutrient deficiencies or pest incursions",
+      "Assess plant population density and uniform growth distribution"
+    ],
+    "economic_importance": "Maximizes yield potential, grain quality, and economic returns for producers.",
+    "risk_level": "None",
+    "diagnosis_notes": [
+      "Plants exhibit uniform growth, structural integrity, vibrant green foliage without chlorosis or necrosis, and healthy, clean root systems."
+    ],
+    "similar_diseases": [],
+    "references": [
+      "FAO Crop Production Manuals",
+      "USDA-ARS Maize Genetics and Breeding Research",
+      "CIMMYT Maize Field Guide"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Common Rust",
+    "scientific_name": "Puccinia sorghi",
+    "disease_type": "Fungal",
+    "pathogen": "Puccinia sorghi Schwein.",
+    "severity": "Moderate to High",
+    "affected_parts": [
+      "Leaves",
+      "Sheaths"
+    ],
+    "symptoms": [
+      "Small, powdery pustules on both upper and lower leaf surfaces",
+      "Pustules are dark cinnamon-brown early in the season",
+      "Pustules turn black late in the season as teliospores form",
+      "Severe infections cause leaf chlorosis and premature death"
+    ],
+    "early_stage": [
+      "Small, elongated chlorotic flecks on leaves",
+      "Development of raised, circular to elongated brown pustules (uredinia)"
+    ],
+    "advanced_stage": [
+      "Pustules rupture to release powdery brown urediniospores",
+      "Pustules coalesce, covering large leaf areas",
+      "Leaves yellow, wither, and dry up prematurely",
+      "Pustules turn black (telia stage)"
+    ],
+    "causes": [
+      "Fungal spores wind-blown from southern overwintering areas",
+      "Presence of susceptible corn hybrids"
+    ],
+    "favorable_conditions": [
+      "Cool temperatures (16-23°C)",
+      "High relative humidity (over 95%)",
+      "Extended periods of leaf wetness (6-8 hours)"
+    ],
+    "spread_method": [
+      "Wind-blown urediniospores travelling long distances"
+    ],
+    "prevention": [
+      "Plant resistant or tolerant corn hybrids",
+      "Manage planting dates to avoid peak spore periods"
+    ],
+    "treatment": [
+      "Apply foliar fungicides if disease thresholds are breached prior to tasseling"
+    ],
+    "organic_control": [
+      "Use resistant varieties",
+      "Application of copper-based formulations or sulfur products early in infection cycles"
+    ],
+    "chemical_control": [
+      "Foliar fungicide applications should follow registered product labels and local regulations",
+      "Apply when pustules appear on lower leaves before the tasseling stage if weather forecasts predict persistent cool, wet conditions"
+    ],
+    "recommended_fungicides": [
+      "Pyraclostrobin",
+      "Azoxystrobin",
+      "Propiconazole",
+      "Tebuconazole"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [
+      "Bacillus subtilis strains"
+    ],
+    "nutrition_recommendations": [
+      "Maintain balanced nitrogen and potassium levels to mitigate stress and support plant defense mechanisms"
+    ],
+    "irrigation_recommendations": [
+      "Avoid overhead irrigation in the late afternoon or evening to minimize the duration of leaf wetness"
+    ],
+    "monitoring": [
+      "Scout fields prior to tasseling, paying close attention to lower and mid-canopy leaves for early pustule development"
+    ],
+    "economic_importance": "Can cause significant yield losses (10-20%) in susceptible hybrids due to reduced photosynthetic area and premature senescence.",
+    "risk_level": "Moderate",
+    "diagnosis_notes": [
+      "Distinguished by pustules occurring on BOTH sides of the leaf, which are circular to elongate and break through the epidermis."
+    ],
+    "similar_diseases": [
+      "Southern Rust"
+    ],
+    "references": [
+      "APS Compendium of Corn Diseases",
+      "USDA-ARS Rust Laboratory Reports",
+      "CABI Crop Protection Compendium"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Southern Rust",
+    "scientific_name": "Puccinia polysora",
+    "disease_type": "Fungal",
+    "pathogen": "Puccinia polysora Underw.",
+    "severity": "High to Severe",
+    "affected_parts": [
+      "Leaves",
+      "Leaf sheaths",
+      "Stalks"
+    ],
+    "symptoms": [
+      "Small, circular, light orange to reddish-brown pustules",
+      "Pustules occur predominantly on the UPPER leaf surface",
+      "Pustules are densely crowded and smaller than common rust",
+      "Severe infections lead to rapid leaf necrosis and lodging"
+    ],
+    "early_stage": [
+      "Tiny, light-green to yellow flecks on upper leaf surface",
+      "Small, raised orange pustules that remain covered by the epidermis longer than common rust"
+    ],
+    "advanced_stage": [
+      "Massive accumulation of orange spores on upper leaves",
+      "Pustules break through, causing extensive leaf bleaching and death",
+      "Stalk tissue becomes brittle, leading to severe lodging"
+    ],
+    "causes": [
+      "Spores carried by wind from tropical and subtropical regions annually"
+    ],
+    "favorable_conditions": [
+      "Warm temperatures (25-32°C)",
+      "High relative humidity",
+      "Frequent rainfall or heavy dew"
+    ],
+    "spread_method": [
+      "Wind-borne urediniospores"
+    ],
+    "prevention": [
+      "Select highly resistant hybrids",
+      "Plant early in the season to evade late-summer spore clouds"
+    ],
+    "treatment": [
+      "Timely application of preventative and systemic foliar fungicides"
+    ],
+    "organic_control": [
+      "Genetic resistance is the primary organic control method"
+    ],
+    "chemical_control": [
+      "Apply fungicides promptly upon detection, adherence to local pesticide regulations is mandatory"
+    ],
+    "recommended_fungicides": [
+      "Benzovindiflupyr",
+      "Trifloxystrobin",
+      "Flutriafol",
+      "Prothioconazole"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [],
+    "nutrition_recommendations": [
+      "Ensure sufficient potassium levels to strengthen cellular structures against rapid fungal penetration"
+    ],
+    "irrigation_recommendations": [
+      "Avoid excessive overhead irrigation that extends humidity periods in warm conditions"
+    ],
+    "monitoring": [
+      "Intensify scouting after pollination during warm, humid weather, focusing on the upper canopy where spores land"
+    ],
+    "economic_importance": "Extremely destructive; can cause up to 50% yield loss in susceptible hybrids under optimal conditions due to rapid defoliation.",
+    "risk_level": "High",
+    "diagnosis_notes": [
+      "Pustules are smaller, more circular, dusty orange, and occur almost exclusively on the upper leaf surface, unlike common rust."
+    ],
+    "similar_diseases": [
+      "Common Rust"
+    ],
+    "references": [
+      "APS Compendium of Corn Diseases",
+      "University Extension Phytopathology Guides",
+      "EPPO Global Database"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Northern Corn Leaf Blight",
+    "scientific_name": "Exserohilum turcicum",
+    "disease_type": "Fungal",
+    "pathogen": "Exserohilum turcicum (Pass.) K.J. Leonard & S.G. Suggs",
+    "severity": "High",
+    "affected_parts": [
+      "Leaves",
+      "Leaf sheaths",
+      "Husk"
+    ],
+    "symptoms": [
+      "Large, long, elliptical, grayish-green to tan lesions",
+      "Lesions resemble 'cigar' shapes, measuring 2 to 15 cm",
+      "Dark fungal sporulation forms in the center of lesions under moist conditions",
+      "Lesions coalesce, causing extensive blighting of the canopy"
+    ],
+    "early_stage": [
+      "Small, water-soaked spots on lower leaves",
+      "Spots elongate into narrow, tan, linear stripes"
+    ],
+    "advanced_stage": [
+      "Classic large, cigar-shaped necrotic lesions spanning across veins",
+      "Massive leaf tissue death, giving fields a frosted or burned appearance"
+    ],
+    "causes": [
+      "Fungus overwinters as mycelium and conidia in infected corn debris"
+    ],
+    "favorable_conditions": [
+      "Moderate temperatures (18-27°C)",
+      "Prolonged leaf wetness (6-18 hours) from rain, dew, or fog"
+    ],
+    "spread_method": [
+      "Conidia spread locally by rain splash and wind over longer distances"
+    ],
+    "prevention": [
+      "Utilize resistant hybrids containing Ht genes or quantitative resistance",
+      "Implement a 1-2 year crop rotation away from corn",
+      "Deep tillage to bury infected crop residues"
+    ],
+    "treatment": [
+      "Foliar fungicides applied from tasseling (VT) through silking (R1) if economic thresholds are met"
+    ],
+    "organic_control": [
+      "Resistant varieties",
+      "Rigorous crop rotation",
+      "Decomposition of surface crop residue via tillage"
+    ],
+    "chemical_control": [
+      "Fungicides must be applied in accordance with local regulatory guidelines when lesions appear on leaves below the ear leaf prior to silking"
+    ],
+    "recommended_fungicides": [
+      "Azoxystrobin + Propiconazole",
+      "Pyraclostrobin + Fluxapyroxad",
+      "Prothioconazole"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [
+      "Bacillus amyloliquefaciens"
+    ],
+    "nutrition_recommendations": [
+      "Maintain adequate, balanced fertilization; avoid extreme nitrogen excess which can encourage dense vegetative growth that traps humidity"
+    ],
+    "irrigation_recommendations": [
+      "Manage pivot irrigation to minimize prolonged periods of continuous leaf wetness, avoiding night applications"
+    ],
+    "monitoring": [
+      "Scout weekly starting from mid-vegetative stages, looking at lower leaves first where residue contact occurs"
+    ],
+    "economic_importance": "Significant yield reductions occur if lesions develop on or above the ear leaf before or during silking.",
+    "risk_level": "High",
+    "diagnosis_notes": [
+      "Characterized by the distinctive large, long, cigar-shaped tan lesions that are not bounded by leaf veins."
+    ],
+    "similar_diseases": [
+      "Southern Corn Leaf Blight",
+      "Stewart's Wilt",
+      "Goss's Wilt"
+    ],
+    "references": [
+      "CIMMYT Maize Diseases Field Guide",
+      "USDA Extension Service Circulars",
+      "APS Compendium of Corn Diseases"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Southern Corn Leaf Blight",
+    "scientific_name": "Bipolaris maydis",
+    "disease_type": "Fungal",
+    "pathogen": "Bipolaris maydis (Nisikado & Miyake) Shoemaker",
+    "severity": "Moderate to High",
+    "affected_parts": [
+      "Leaves",
+      "Leaf sheaths",
+      "Stalks",
+      "Ears"
+    ],
+    "symptoms": [
+      "Small, elongated, tan to brown lesions with parallel sides",
+      "Lesions are bounded by leaf veins, distinctively rectangular",
+      "Lesion size varies (2-3 cm long)",
+      "Race T causes severe ear rot and stalk lesions, while Race O is primarily foliar"
+    ],
+    "early_stage": [
+      "Small, oval, water-soaked spots on leaves",
+      "Development of light tan center with reddish-brown borders"
+    ],
+    "advanced_stage": [
+      "Lesions elongate into distinct rectangular shapes",
+      "Coalescence of lesions causes extensive leaf drying",
+      "Race T infections show dark, moldy growth on ears and stalk rotting"
+    ],
+    "causes": [
+      "Fungus overwinters in infested corn residue as mycelium or conidia"
+    ],
+    "favorable_conditions": [
+      "Warm temperatures (20-32°C)",
+      "High humidity",
+      "Frequent rainfall"
+    ],
+    "spread_method": [
+      "Wind and splashing rain moving conidia up the plant canopy"
+    ],
+    "prevention": [
+      "Plant resistant hybrids (avoid Texas male sterile cytoplasm for Race T)",
+      "Crop rotation with non-grass species",
+      "Tillage to incorporate crop residue into the soil"
+    ],
+    "treatment": [
+      "Foliar fungicide application if disease is identified early on susceptible lines"
+    ],
+    "organic_control": [
+      "Selection of resistant cultivars",
+      "Burying crop residues immediately after harvest"
+    ],
+    "chemical_control": [
+      "Apply registered fungicides according to label directions and regional compliance criteria"
+    ],
+    "recommended_fungicides": [
+      "Pyraclostrobin",
+      "Azoxystrobin + Difenoconazole",
+      "Tebuconazole"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [],
+    "nutrition_recommendations": [
+      "Balanced macronutrient applications to prevent early tissue senescence which predisposes plants to infection"
+    ],
+    "irrigation_recommendations": [
+      "Schedule irrigation to allow leaves to dry fully during daylight hours"
+    ],
+    "monitoring": [
+      "Scout fields in warm, wet weather during mid-to-late vegetative stages, focusing on lower leaves"
+    ],
+    "economic_importance": "Historically devastating (1070s epidemic due to Race T); currently well managed via resistance but remains a threat in warm, humid regions.",
+    "risk_level": "Moderate",
+    "diagnosis_notes": [
+      "Lesions are smaller and more rectangular (parallel sides) than Northern Corn Leaf Blight, restricted by veins."
+    ],
+    "similar_diseases": [
+      "Northern Corn Leaf Blight",
+      "Gray Leaf Spot"
+    ],
+    "references": [
+      "APS Compendium of Corn Diseases",
+      "FAO Plant Production and Protection Series",
+      "CABI Crop Protection Compendium"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Gray Leaf Spot",
+    "scientific_name": "Cercospora zeae-maydis",
+    "disease_type": "Fungal",
+    "pathogen": "Cercospora zeae-maydis Tehon & E.Y. Daniels",
+    "severity": "High to Severe",
+    "affected_parts": [
+      "Leaves",
+      "Leaf sheaths"
+    ],
+    "symptoms": [
+      "Distinct rectangular, blocky, tan to gray lesions",
+      "Lesions are strictly bounded by lateral veins",
+      "Lesions measure 1-6 cm long and 2-4 mm wide",
+      "Gray, cloudy appearance when fungus is actively sporulating"
+    ],
+    "early_stage": [
+      "Small, tan, circular to oval spots with yellow halos",
+      "Spots begin to take on a square or rectangular orientation as they hit leaf veins"
+    ],
+    "advanced_stage": [
+      "Perfectly rectangular, long gray-tan lesions running parallel to veins",
+      "Severe blighting, leaf death, and subsequent stalk lodging due to carbohydrate depletion"
+    ],
+    "causes": [
+      "Fungus overwinters in corn debris on the soil surface, particularly in conservation tillage systems"
+    ],
+    "favorable_conditions": [
+      "Warm temperatures (24-30°C)",
+      "High relative humidity (over 90% for extended periods)",
+      "Frequent overcast days and prolonged leaf wetness"
+    ],
+    "spread_method": [
+      "Wind-borne and rain-splashed conidia from surface residues"
+    ],
+    "prevention": [
+      "Select hybrids with strong genetic tolerance or resistance scores",
+      "Rotate away from corn for a minimum of one to two years",
+      "Conventional tillage to degrade surface residue layers"
+    ],
+    "treatment": [
+      "Timely foliar fungicide application at VT-R1 stage if field thresholds are exceeded"
+    ],
+    "organic_control": [
+      "Strict crop rotation",
+      "Debris shredding and inversion tillage to enhance microbial breakdown of residue"
+    ],
+    "chemical_control": [
+      "Fungicide timing is critical; apply between VT and R1 when weather favors disease and susceptible hybrids are used, adhering to local laws"
+    ],
+    "recommended_fungicides": [
+      "Trifloxystrobin + Prothioconazole",
+      "Pyraclostrobin + Fluxapyroxad",
+      "Azoxystrobin + Propiconazole"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [
+      "Bacillus pumilus formulations"
+    ],
+    "nutrition_recommendations": [
+      "Ensure proper nitrogen-to-potassium ratios to enhance plant structural integrity and defense synthesis"
+    ],
+    "irrigation_recommendations": [
+      "Avoid frequent, light overhead irrigations; instead, apply water deeply and less frequently to minimize humidity duration"
+    ],
+    "monitoring": [
+      "Scout closely starting at V12 through silking; check the lower leaves for characteristic rectangular spots"
+    ],
+    "economic_importance": "One of the most economically damaging foliar diseases of corn globally, capable of causing 10-40% yield loss through rapid loss of photosynthetic capacity.",
+    "risk_level": "High",
+    "diagnosis_notes": [
+      "The strictly rectangular shape with perfectly straight, vein-limited edges is diagnostic for Gray Leaf Spot."
+    ],
+    "similar_diseases": [
+      "Southern Corn Leaf Blight",
+      "Bacterial Leaf Streak"
+    ],
+    "references": [
+      "APS Compendium of Corn Diseases",
+      "University Cooperative Extension Bulletins",
+      "EPPO Global Database"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Anthracnose Leaf Blight",
+    "scientific_name": "Colletotrichum graminicola",
+    "disease_type": "Fungal",
+    "pathogen": "Colletotrichum graminicola (Ces.) G.W. Wils.",
+    "severity": "Moderate",
+    "affected_parts": [
+      "Leaves"
+    ],
+    "symptoms": [
+      "Oval to spindle-shaped lesions, tan to brown with dark reddish-brown borders",
+      "Lesions often appear first on lower leaves early in the season",
+      "Black, hair-like structures (setae) visible in lesion centers with magnification",
+      "May cause premature yellowing of lower leaves"
+    ],
+    "early_stage": [
+      "Small, water-soaked, circular spots on young leaves",
+      "Spots develop a yellow halo and dark margins"
+    ],
+    "advanced_stage": [
+      "Lesions enlarge up to 1-2 cm, becoming spindle-shaped",
+      "Coalescing lesions cause extensive leaf tip necrosis and drying",
+      "Presence of black fruiting bodies (acervuli) with bristly setae"
+    ],
+    "causes": [
+      "Fungus overwinters in infested corn residue on or near the soil surface"
+    ],
+    "favorable_conditions": [
+      "Warm temperatures (21-30°C)",
+      "Extended periods of high humidity and rainy weather",
+      "Early season plant stress"
+    ],
+    "spread_method": [
+      "Conidia are spread primarily by splashing rain and wind"
+    ],
+    "prevention": [
+      "Plant resistant corn hybrids",
+      "Implement crop rotation with non-hosts like soybeans",
+      "Incorporate residue via tillage to speed decomposition"
+    ],
+    "treatment": [
+      "Foliar fungicides are rarely economical specifically for the leaf blight stage but can reduce late-season stalk rot risk"
+    ],
+    "organic_control": [
+      "Crop rotation",
+      "Deep plowing",
+      "Maintaining balanced soil health to reduce early stress"
+    ],
+    "chemical_control": [
+      "Chemical control is typically restricted to high-value seed production fields, following registered local labels"
+    ],
+    "recommended_fungicides": [
+      "Azoxystrobin",
+      "Pyraclostrobin",
+      "Propiconazole"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [],
+    "nutrition_recommendations": [
+      "Provide adequate early nitrogen and phosphorus to ensure vigorous seedling establishment and reduce stress susceptibility"
+    ],
+    "irrigation_recommendations": [
+      "Ensure proper field drainage to minimize pooling and excessive humidity within the seedling canopy"
+    ],
+    "monitoring": [
+      "Examine seedling and early vegetative corn fields for lower leaf spots, especially after early rainy spells"
+    ],
+    "economic_importance": "Usually minor on field corn as a foliar blight, but indicates the presence of the pathogen which can lead to severe stalk rot later.",
+    "risk_level": "Moderate",
+    "diagnosis_notes": [
+      "Look for spindle-shaped lesions with dark borders and microscopic black hairs (setae) in the center."
+    ],
+    "similar_diseases": [
+      "Eyespot",
+      "Southern Corn Leaf Blight"
+    ],
+    "references": [
+      "APS Compendium of Corn Diseases",
+      "CABI Crop Protection Compendium",
+      "Purdue University Extension Entomology & Plant Pathology"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Anthracnose Stalk Rot",
+    "scientific_name": "Colletotrichum graminicola",
+    "disease_type": "Fungal",
+    "pathogen": "Colletotrichum graminicola (Ces.) G.W. Wils.",
+    "severity": "High to Severe",
+    "affected_parts": [
+      "Stalks"
+    ],
+    "symptoms": [
+      "Shiny, linear black streaks or blotches on the outer stalk surface",
+      "Internal pith becomes disintegrated, dark brown, and shredded",
+      "Top-dieback, where the plant above the ear dies prematurely while lower parts remain green",
+      "Severe stalk lodging and breakage below the ear"
+    ],
+    "early_stage": [
+      "Narrow, water-soaked linear lesions on the stalk epidermis after pollination",
+      "Premature yellowing or death of the top leaves (top-dieback)"
+    ],
+    "advanced_stage": [
+      "Extensive shiny black coloration covering entire internodes",
+      "Stalk internal cavity becomes hollowed, pith turns dark and stringy",
+      "Stalk structural collapse (lodging) rendering mechanical harvesting difficult"
+    ],
+    "causes": [
+      "Systemic movement of the fungus within the plant or infection through the stalk/leaf sheaths from overwintered residue"
+    ],
+    "favorable_conditions": [
+      "High temperatures (25-32°C) post-flowering",
+      "Cloudy weather, low solar radiation during grain fill",
+      "High yield stress paired with stalk carbohydrate depletion"
+    ],
+    "spread_method": [
+      "Fungal spores enter through roots, wounds, or insect feeding sites, spreading systemically"
+    ],
+    "prevention": [
+      "Select hybrids with specific stalk rot and anthracnose resistance scores",
+      "Manage plant populations to avoid high density lodging stress",
+      "Control insect pests that wound stalks"
+    ],
+    "treatment": [
+      "Foliar fungicides applied at VT/R1 can indirectly reduce stalk rot by preserving leaf area and preventing carbohydrate depletion"
+    ],
+    "organic_control": [
+      "Burying crop residue",
+      "Strict crop rotation",
+      "Optimizing plant populations to reduce crowding stress"
+    ],
+    "chemical_control": [
+      "No direct curative chemical treatment for infected stalks; preventative foliar treatments follow registered local regulations"
+    ],
+    "recommended_fungicides": [
+      "Pyraclostrobin + Fluxapyroxad",
+      "Trifloxystrobin + Prothioconazole"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [
+      "Pyrethroids or Bt traits for stalk borers to prevent physical wounding"
+    ],
+    "recommended_biological_control": [],
+    "nutrition_recommendations": [
+      "Maintain optimal potassium levels; balance nitrogen to prevent excessive late-season vegetative growth without sufficient stalk strength"
+    ],
+    "irrigation_recommendations": [
+      "Avoid drought stress during the grain filling period to prevent the plant from cannibalizing stalk carbohydrates"
+    ],
+    "monitoring": [
+      "Perform the stalk push test or pinch test on 100 plants per field mid-to-late season to assess lodging risk"
+    ],
+    "economic_importance": "A major cause of lodging and harvest losses globally; can cause up to 40% harvest efficiency loss and direct grain reduction due to premature death.",
+    "risk_level": "High",
+    "diagnosis_notes": [
+      "Identified by the distinct, glossy black vertical blotches on the external stalk rind and dark shredded internal pith."
+    ],
+    "similar_diseases": [
+      "Gibberella Stalk Rot",
+      "Fusarium Stalk Rot",
+      "Diplodia Stalk Rot"
+    ],
+    "references": [
+      "APS Compendium of Corn Diseases",
+      "University of Illinois Extension Field Crop Reports",
+      "CIMMYT Maize Field Manual"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Eyespot",
+    "scientific_name": "Kabatiella zeae",
+    "disease_type": "Fungal",
+    "pathogen": "Kabatiella zeae Narita & Y. Hiratsuka",
+    "severity": "Low to Moderate",
+    "affected_parts": [
+      "Leaves",
+      "Leaf sheaths",
+      "Husks"
+    ],
+    "symptoms": [
+      "Numerous small, circular, translucent spots (1-4 mm diameter)",
+      "Spots have a tan to cream center, surrounded by a distinct brown or purple ring",
+      "A prominent yellow chlorotic halo surrounds the outer ring",
+      "Lesions can coalesce, causing large areas of leaf necrosis under severe pressure"
+    ],
+    "early_stage": [
+      "Tiny, water-soaked circular spots on lower leaves",
+      "Appearance of a clear or translucent center in the spots"
+    ],
+    "advanced_stage": [
+      "Massive quantities of eye-like lesions covering the entire leaf blade",
+      "Premature leaf drying and death, resembling frost damage",
+      "Early senescing of the crop"
+    ],
+    "causes": [
+      "Fungus overwinters in un-decomposed corn residue left on the soil surface"
+    ],
+    "favorable_conditions": [
+      "Cool temperatures (10-22°C)",
+      "High relative humidity",
+      "Frequent rainfall or heavy dews",
+      "Continuous corn under no-till management"
+    ],
+    "spread_method": [
+      "Rain splash and localized wind movement spreading conidia upward"
+    ],
+    "prevention": [
+      "Plant resistant or tolerant corn hybrids",
+      "Implement crop rotation with non-grass species for at least one year",
+      "Clean plowing to bury infested plant residue"
+    ],
+    "treatment": [
+      "Foliar fungicide applications are effective if applied early in severe cases, primarily on susceptible inbreds"
+    ],
+    "organic_control": [
+      "Deep tillage",
+      "Crop rotation",
+      "Using certified clean seed stocks"
+    ],
+    "chemical_control": [
+      "Apply registered fungicides when economic thresholds are met, following local regulations and label restrictions"
+    ],
+    "recommended_fungicides": [
+      "Azoxystrobin",
+      "Propiconazole",
+      "Pyraclostrobin"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [],
+    "nutrition_recommendations": [
+      "Ensure adequate, balanced fertility to maintain plant vigor, avoiding late nutrient deficiencies that accelerate tissue decline"
+    ],
+    "irrigation_recommendations": [
+      "Minimize nighttime overhead irrigation to reduce continuous leaf wetness periods in cool seasons"
+    ],
+    "monitoring": [
+      "Scout cool-season early plantings during late vegetative stages, focusing on lower leaves for the diagnostic halos"
+    ],
+    "economic_importance": "Usually minor in most commercial fields, but can cause notable localized losses in cool, wet northern corn-growing regions under continuous no-till.",
+    "risk_level": "Low",
+    "diagnosis_notes": [
+      "Characterized by very small, uniform, circular spots with a dark ring and a bright yellow halo, resembling an 'eye'."
+    ],
+    "similar_diseases": [
+      "Anthracnose Leaf Blight",
+      "Physoderma Brown Spot"
+    ],
+    "references": [
+      "CABI Crop Protection Compendium",
+      "APS Compendium of Corn Diseases",
+      "Iowa State University Extension Path Report"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Common Smut",
+    "scientific_name": "Ustilago maydis",
+    "disease_type": "Fungal",
+    "pathogen": "Ustilago maydis (DC.) Corda",
+    "severity": "Low to Moderate",
+    "affected_parts": [
+      "Ears",
+      "Tassels",
+      "Stalks",
+      "Leaves"
+    ],
+    "symptoms": [
+      "Formation of prominent, fleshy galls on infected tissues",
+      "Galls are initially covered by a shiny white to silvery-gray membrane",
+      "Internal gall tissue transforms into a powdery mass of black teliospores",
+      "Galls rupture to release black spores; leaf infections show small hard galls"
+    ],
+    "early_stage": [
+      "Small, white, swelling bumps or distortions on rapidly growing plant tissues",
+      "Galls feel soft and fleshy to the touch"
+    ],
+    "advanced_stage": [
+      "Galls enlarge significantly, up to 10-15 cm on ears or stalks",
+      "The outer silvery membrane dries, thins, and ruptures",
+      "Release of millions of powdery, dark black teliospores that stain the plant"
+    ],
+    "causes": [
+      "Fungus overwinters as teliospores in soil or crop debris, surviving for several years"
+    ],
+    "favorable_conditions": [
+      "Warm temperatures (26-34°C)",
+      "Dry conditions during pollination followed by rain",
+      "Physical wounding caused by hail, high winds, insect feeding, or mechanical cultivation"
+    ],
+    "spread_method": [
+      "Wind-borne teliospores and water splash entering through wounds or silk channels"
+    ],
+    "prevention": [
+      "Plant hybrids with good resistance profiles",
+      "Avoid mechanical injury to plants during cultivation",
+      "Maintain balanced soil fertility",
+      "Control insect pests to minimize physical wounds"
+    ],
+    "treatment": [
+      "Foliar fungicides are completely ineffective and not recommended for common smut control"
+    ],
+    "organic_control": [
+      "Manual removal and destruction of young galls before they rupture (practical for small scales)",
+      "Crop rotation to lower local spore loads"
+    ],
+    "chemical_control": [
+      "No direct registered chemical control for field crops; focus entirely on genetic resistance and avoiding injury"
+    ],
+    "recommended_fungicides": [],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [
+      "Insecticides targeting early season stalk and ear borers to limit entry wounds"
+    ],
+    "recommended_biological_control": [],
+    "nutrition_recommendations": [
+      "Avoid excessive nitrogen applications, which create lush, soft tissues highly susceptible to infection; ensure adequate phosphorus"
+    ],
+    "irrigation_recommendations": [
+      "Provide consistent irrigation during pollination to prevent drought stress and subsequent silk exposure issues"
+    ],
+    "monitoring": [
+      "Check fields during late vegetative and reproductive stages for silver galls, especially after severe weather events like hail"
+    ],
+    "economic_importance": "Usually causes minor yield losses (under 2%) globally, though individual fields with severe ear infections can experience significant grain quality and yield drops. In some cultures, young galls are consumed as a delicacy (huitlacoche).",
+    "risk_level": "Low",
+    "diagnosis_notes": [
+      "Unmistakable due to large, fleshy, silver-white galls that mature into black, powdery spore masses on any above-ground plant part."
+    ],
+    "similar_diseases": [
+      "Head Smut"
+    ],
+    "references": [
+      "APS Compendium of Corn Diseases",
+      "USDA Agricultural Research Service Bulletins",
+      "CIMMYT Maize Field Guide"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Head Smut",
+    "scientific_name": "Sphacelotheca reiliana",
+    "disease_type": "Fungal",
+    "pathogen": "Sphacelotheca reiliana (Kühn) Clinton",
+    "severity": "Moderate to High",
+    "affected_parts": [
+      "Tassels",
+      "Ears"
+    ],
+    "symptoms": [
+      "Complete replacement of the tassel or ear with a dark, powdery spore mass",
+      "Absence of silks on infected ears",
+      "Infected tassels display a teardrop shape and fail to shed pollen",
+      "The spore mass is initially enclosed by a fragile membrane that breaks quickly, exposing stringy vascular bundles"
+    ],
+    "early_stage": [
+      "Systemic infection is invisible until flowering",
+      "Emerging tassels or ears appear abnormally thickened, compact, or deformed"
+    ],
+    "advanced_stage": [
+      "Tassel and ear structures are completely destroyed and replaced by black teliospores",
+      "Vascular strands remain as black, thread-like structures within the spore mass",
+      "Severe plant stunting or proliferation of leafy structures in the tassel (phyllody)"
+    ],
+    "causes": [
+      "Fungal spores present in the soil infect the corn seedling systemically through the roots during early germination"
+    ],
+    "favorable_conditions": [
+      "Warm, dry soils (21-28°C) during seedling emergence and early growth"
+    ],
+    "spread_method": [
+      "Soil-borne spores infect seedlings; spores are moved between fields by contaminated machinery"
+    ],
+    "prevention": [
+      "Plant highly resistant corn hybrids",
+      "Use systemic fungicidal seed treatments",
+      "Sanitize farm machinery when moving from infested to clean fields"
+    ],
+    "treatment": [
+      "Foliar fungicides are ineffective; management depends entirely on preventative seed treatments and resistance"
+    ],
+    "organic_control": [
+      "Strict long-term crop rotation out of fields with known infestation",
+      "Sanitation of tools and machinery"
+    ],
+    "chemical_control": [
+      "Apply registered systemic seed treatments prior to planting; comply with all local chemical regulations"
+    ],
+    "recommended_fungicides": [
+      "Sedaxane (as a seed treatment)",
+      "Fludioxonil (as a seed treatment)",
+      "Ipconazole (as a seed treatment)"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [],
+    "nutrition_recommendations": [
+      "Promote rapid early seedling growth with appropriate starter fertilizers containing readily available phosphorus"
+    ],
+    "irrigation_recommendations": [
+      "Maintain adequate soil moisture during planting and emergence to avoid dry conditions that favor root infection"
+    ],
+    "monitoring": [
+      "Scout fields during tassel and ear emergence to identify and map areas of infection for future management decisions"
+    ],
+    "economic_importance": "Can cause severe localized losses because infected plants produce zero grain. It is a regulated quarantine pest in some regions.",
+    "risk_level": "Moderate",
+    "diagnosis_notes": [
+      "Differs from common smut by infecting ONLY the reproductive structures (ears/tassels), leaving thread-like vascular fibers, and lack of fleshy silver galls."
+    ],
+    "similar_diseases": [
+      "Common Smut"
+    ],
+    "references": [
+      "EPPO Data Sheets on Quarantine Pests",
+      "CABI Crop Protection Compendium",
+      "APS Compendium of Corn Diseases"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Fusarium Ear Rot",
+    "scientific_name": "Fusarium verticillioides",
+    "disease_type": "Fungal",
+    "pathogen": "Fusarium verticillioides (Sacc.) Nirenberg",
+    "severity": "Moderate to High",
+    "affected_parts": [
+      "Ears",
+      "Kernels"
+    ],
+    "symptoms": [
+      "Individual or scattered small clusters of kernels exhibit white-to-pink or lavender mold",
+      "Infected kernels often show a diagnostic 'starburst' pattern (white streaks radiating from the silk attachment point)",
+      "Can affect any part of the ear, frequently associated with insect or bird damage",
+      "Production of dangerous mycotoxins (fumonisins)"
+    ],
+    "early_stage": [
+      "Faint white fungal mycelium appearing between kernels on scattered areas of the cob",
+      "Light pink discoloration of individual kernel crowns"
+    ],
+    "advanced_stage": [
+      "Extensive pinkish-white mold covering large blocks of kernels",
+      "Kernels become brittle, cracked, and thoroughly decayed",
+      "High accumulation of fumonisin mycotoxins within the grain"
+    ],
+    "causes": [
+      "Fungus overwinters in crop residue and enters the ear systemically via the roots/stalk or directly through the silk channel"
+    ],
+    "favorable_conditions": [
+      "Warm, dry weather during and after pollination",
+      "High temperatures (26-32°C) coupled with late-season insect damage or mechanical wounding"
+    ],
+    "spread_method": [
+      "Airborne or water-borne conidia landing on silks; systemic movement within the vascular system; insect vectors (e.g., earworms)"
+    ],
+    "prevention": [
+      "Select hybrids with genetic resistance and tight husk coverage",
+      "Utilize Bt traits to significantly reduce insect feeding wounds",
+      "Manage harvest timing to avoid late-season field drying if rot is present"
+    ],
+    "treatment": [
+      "Foliar fungicides targeting silks can provide partial suppression but must be paired with insect management"
+    ],
+    "organic_control": [
+      "Strict insect control using organic methods",
+      "Timely harvest",
+      "Proper drying and storage below 15% moisture"
+    ],
+    "chemical_control": [
+      "Fungicide applications at silking must follow local registration and are mostly applied in high-value production"
+    ],
+    "recommended_fungicides": [
+      "Prothioconazole",
+      "Propiconazole + Azoxystrobin"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [
+      "Pyrethroids or Bt traits to control ear-wounding insects like Helicoverpa zea"
+    ],
+    "recommended_biological_control": [],
+    "nutrition_recommendations": [
+      "Maintain optimal nutrient balances to ensure uniform flowering and rapid husk development, reducing exposure windows"
+    ],
+    "irrigation_recommendations": [
+      "Manage irrigation to prevent late-season stress which predisposes maturing ears to fungal colonization"
+    ],
+    "monitoring": [
+      "Scout fields at physiological maturity (black layer) by peeling back husks on 100 ears to check for pink mold and starburst patterns"
+    ],
+    "economic_importance": "Highly important due to both direct yield reduction and strict regulatory limits on fumonisin mycotoxins in food and livestock feed.",
+    "risk_level": "Moderate",
+    "diagnosis_notes": [
+      "Look for the classic white 'starburst' streaks on individual, scattered pinkish kernels, rather than continuous mats of mold."
+    ],
+    "similar_diseases": [
+      "Gibberella Ear Rot",
+      "Diplodia Ear Rot",
+      "Aspergillus Ear Rot"
+    ],
+    "references": [
+      "FAO Mycotoxin Prevention Manuals",
+      "APS Compendium of Corn Diseases",
+      "CIMMYT Maize Quality Guide"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Gibberella Ear Rot",
+    "scientific_name": "Gibberella zeae",
+    "disease_type": "Fungal",
+    "pathogen": "Gibberella zeae (Schwein.) Petch (anamorph Fusarium graminearum)",
+    "severity": "High",
+    "affected_parts": [
+      "Ears",
+      "Kernels"
+    ],
+    "symptoms": [
+      "Distinctive reddish-pink to bright pink mold growth",
+      "Infection characteristically begins at the TIP of the ear and progresses downward",
+      "Husk leaves may become tightly cemented to the ear by the pink mycelium",
+      "Production of hazardous mycotoxins including deoxynivalenol (vomitoxin) and zearalenone"
+    ],
+    "early_stage": [
+      "Fine pinkish mold visible at the absolute tip of the ear shortly after silking",
+      "Slight water-soaked appearance of tip kernels"
+    ],
+    "advanced_stage": [
+      "Brilliant deep-pink or red mat of mycelium engulfing the upper half or entirety of the ear",
+      "Husks glued tightly to the cob; kernels heavily decayed and soft",
+      "High concentration of vomitoxin rendering grain toxic to livestock (especially swine)"
+    ],
+    "causes": [
+      "Fungus overwinters on corn and small grain residues, producing perithecia that release airborne ascospores"
+    ],
+    "favorable_conditions": [
+      "Cool, wet, and humid weather within 3 weeks after silking (R1)"
+    ],
+    "spread_method": [
+      "Airborne ascospores and rain-splashed conidia entering directly through the wet silk channel"
+    ],
+    "prevention": [
+      "Select hybrids with high resistance scores and upright ear traits that drain well",
+      "Avoid rotating corn immediately after small grains like wheat",
+      "Tillage to bury crop residue and enhance degradation"
+    ],
+    "treatment": [
+      "Foliar fungicides applied precisely during early silking (R1) can provide suppression"
+    ],
+    "organic_control": [
+      "Crop rotation with non-hosts (e.g., soybeans)",
+      "Immediate drying of grain post-harvest to below 14% moisture",
+      "Deep burial of residues"
+    ],
+    "chemical_control": [
+      "Fungicides must be applied at the correct growth stage (R1) following local pesticide rules and restrictions"
+    ],
+    "recommended_fungicides": [
+      "Prothioconazole",
+      "Metconazole",
+      "Pydiflumetofen"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [],
+    "nutrition_recommendations": [
+      "Ensure balanced fertility to avoid delayed or uneven silking across the field, which prolongs the infection window"
+    ],
+    "irrigation_recommendations": [
+      "Avoid overhead irrigation during peak silking to reduce water accumulation in the silk channel"
+    ],
+    "monitoring": [
+      "Scout fields prior to harvest, pulling back husks at the ear tip to check for reddish-pink mycelial progression"
+    ],
+    "economic_importance": "Critically high economic impact due to the severe effects of vomitoxin and zearalenone on animal health, causing feed refusal and reproductive failures.",
+    "risk_level": "High",
+    "diagnosis_notes": [
+      "Identified by the dark pink-to-red mold color and its definitive progression from the ear tip downward, unlike Fusarium ear rot."
+    ],
+    "similar_diseases": [
+      "Fusarium Ear Rot",
+      "Diplodia Ear Rot"
+    ],
+    "references": [
+      "APS Compendium of Corn Diseases",
+      "USDA-ARS Mycotoxin Research Units",
+      "University Extension Crop Science Guides"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Diplodia Ear Rot",
+    "scientific_name": "Stenocarpella maydis",
+    "disease_type": "Fungal",
+    "pathogen": "Stenocarpella maydis (Berk.) Sutton",
+    "severity": "High to Severe",
+    "affected_parts": [
+      "Ears",
+      "Kernels",
+      "Husks"
+    ],
+    "symptoms": [
+      "Thick, dense, white-to-grayish mold growing between kernels",
+      "Infection characteristically starts at the BASE of the ear and moves upward",
+      "Entire ear can become structurally light, shriveled, and completely brown",
+      "Small, black, pinhead-sized fruiting bodies (pycnidia) embedded in the cob matrix or kernels"
+    ],
+    "early_stage": [
+      "Premature bleaching or yellowing of the ear husks while the rest of the plant remains green",
+      "Thin layer of white mycelium at the base of the ear"
+    ],
+    "advanced_stage": [
+      "The entire ear is encased in a dense, felt-like white mold mat",
+      "Ears are incredibly light, rotten, and break easily",
+      "Black pycnidia appear on the husks and dark kernel surfaces"
+    ],
+    "causes": [
+      "Fungus overwinters as pycnidia on corn stalks and residue left on the soil surface"
+    ],
+    "favorable_conditions": [
+      "Warm, wet weather with frequent, heavy rainfall during the first 2-3 weeks post-silking",
+      "Continuous corn cultivation under conservation tillage"
+    ],
+    "spread_method": [
+      "Rain splash dispersing conidia from surface residues directly onto the base of the ear or leaf axil"
+    ],
+    "prevention": [
+      "Select resistant hybrids",
+      "Implement a minimum 1-year crop rotation out of corn",
+      "Utilize clean tillage to bury infected stalk debris"
+    ],
+    "treatment": [
+      "Foliar fungicides generally offer very limited to no control for Diplodia ear rot; prevention is key"
+    ],
+    "organic_control": [
+      "Crop rotation",
+      "Deep plowing to eliminate surface inoculum sources",
+      "Harvesting early to prevent further rot progression"
+    ],
+    "chemical_control": [
+      "No highly effective post-emergence chemical control available for field applications; follow local label updates"
+    ],
+    "recommended_fungicides": [],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [],
+    "nutrition_recommendations": [
+      "Maintain standard balanced crop nutrition to prevent premature plant stress during early ear development"
+    ],
+    "irrigation_recommendations": [
+      "Avoid heavy overhead irrigation during early reproductive stages if continuous corn residue is present"
+    ],
+    "monitoring": [
+      "Look for early bleached husks in the field 2-4 weeks after silking; pull husks back to check for base-upward white mold"
+    ],
+    "economic_importance": "Can cause catastrophic localized yield losses and extreme grain dockage due to high percentages of damaged kernels, though it does not produce major toxins of human concern in North America (can cause diplodiosis in livestock in Africa).",
+    "risk_level": "High",
+    "diagnosis_notes": [
+      "Distinguished by the dense white mold starting at the BASE of the ear, bleached husks, and tiny black pycnidia, with zero pink coloration."
+    ],
+    "similar_diseases": [
+      "Gibberella Ear Rot",
+      "Fusarium Ear Rot"
+    ],
+    "references": [
+      "APS Compendium of Corn Diseases",
+      "CABI Crop Protection Compendium",
+      "Iowa State University Extension Leaflets"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Aspergillus Ear Rot",
+    "scientific_name": "Aspergillus flavus",
+    "disease_type": "Fungal",
+    "pathogen": "Aspergillus flavus Link; Aspergillus parasiticus Speare",
+    "severity": "High to Critical",
+    "affected_parts": [
+      "Kernels",
+      "Ears"
+    ],
+    "symptoms": [
+      "Powdery, olive-green to yellow-green mold growth on kernels",
+      "Typically associated with the tip of the ear or around insect wounds",
+      "Kernels may be shriveled, discolored, and easily broken",
+      "Production of aflatoxins, which are highly carcinogenic liver toxins"
+    ],
+    "early_stage": [
+      "Fine, yellowish-green dusting of spores on scattered kernels near the ear tip",
+      "Minor kernel discoloration"
+    ],
+    "advanced_stage": [
+      "Thick, powdery, olive-green mold coating large sections of the ear",
+      "Extensive grain decay",
+      "Extremely high levels of aflatoxin contamination exceeding regulatory safety limits"
+    ],
+    "causes": [
+      "Fungus survives in soil, crop debris, and organic matter; spores are highly robust and drought-tolerant"
+    ],
+    "favorable_conditions": [
+      "Severe drought stress",
+      "High temperatures (above 30-35°C) during pollination and grain fill",
+      "Insect wounding from ear-feeding pests"
+    ],
+    "spread_method": [
+      "Wind-borne conidia entering via silks or physical wounds caused by insects, birds, or hail"
+    ],
+    "prevention": [
+      "Select drought-tolerant hybrids with excellent husk coverage",
+      "Utilize insect-resistant Bt traits to eliminate wounding pathways",
+      "Apply competitive non-toxigenic biological control strains to the soil"
+    ],
+    "treatment": [
+      "No effective foliar chemical treatment; maximize post-harvest drying speed and cool storage"
+    ],
+    "organic_control": [
+      "Minimize drought stress via irrigation where possible",
+      "Rapid mechanical drying to under 13% moisture within 24 hours of harvest"
+    ],
+    "chemical_control": [
+      "No standard curative chemical control available for fields; compliance with strict local regulations regarding aflatoxin limits is required"
+    ],
+    "recommended_fungicides": [],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [
+      "Pyrethroids or Bt traits to manage corn earworm, fall armyworm, and western bean cutworm"
+    ],
+    "recommended_biological_control": [
+      "Aspergillus flavus AF36 (Non-toxigenic strain)",
+      "Afla-Guard (Atoxic strain)"
+    ],
+    "nutrition_recommendations": [
+      "Ensure adequate potassium and nitrogen to mitigate heavy drought and temperature stress impacts on the crop"
+    ],
+    "irrigation_recommendations": [
+      "Critically important: Provide adequate irrigation during pollination and grain fill stages to alleviate the drought stress that triggers aflatoxin production"
+    ],
+    "monitoring": [
+      "Prioritize scouting in hot, dry areas; check ear tips for characteristic olive-green powder before harvest"
+    ],
+    "economic_importance": "Extremely high economic risk; even minimal aflatoxin contamination (above 20 ppb in the US for human food) can cause complete rejection of the grain lot, leading to severe financial loss.",
+    "risk_level": "High",
+    "diagnosis_notes": [
+      "The distinct olive-green, powdery appearance of the mold combined with hot, dry field conditions is diagnostic."
+    ],
+    "similar_diseases": [
+      "Penicillium Ear Rot",
+      "Fusarium Ear Rot"
+    ],
+    "references": [
+      "USDA-ARS Aflatoxin Research Guidelines",
+      "FAO Mycotoxin Standards",
+      "APS Compendium of Corn Diseases"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Bacterial Leaf Streak",
+    "scientific_name": "Xanthomonas vasicola pv. vasculorum",
+    "disease_type": "Bacterial",
+    "pathogen": "Xanthomonas vasicola pv. vasculorum (Cobb) Saaltink et al.",
+    "severity": "Low to Moderate",
+    "affected_parts": [
+      "Leaves"
+    ],
+    "symptoms": [
+      "Narrow, linear, light tan to brown streaks running parallel between leaf veins",
+      "Lesions have highly irregular, wavy, or jagged margins",
+      "A distinct, bright yellow chlorotic halo is highly visible when backlit",
+      "Lesions can measure from less than 1 cm to several centimeters long"
+    ],
+    "early_stage": [
+      "Small, water-soaked, translucent linear streaks on lower leaves",
+      "Development of early yellow halos around the streaks"
+    ],
+    "advanced_stage": [
+      "Streaks elongate and coalesce into broad bands of necrotic tissue",
+      "Considerable loss of green leaf area, spreading up into the high canopy"
+    ],
+    "causes": [
+      "Bacterium overwinters in infected crop residue and enters plants through natural openings (stomata) or wounds"
+    ],
+    "favorable_conditions": [
+      "Continuous rain and windstorms",
+      "High humidity",
+      "Overhead irrigation usage",
+      "Warm temperatures"
+    ],
+    "spread_method": [
+      "Rain splash, wind-driven rain, and overhead irrigation water moving bacteria across leaves"
+    ],
+    "prevention": [
+      "Select tolerant hybrids",
+      "Practice crop rotation with non-host crops (e.g., soybeans or alfalfa)",
+      "Clean tillage to accelerate residue breakdown"
+    ],
+    "treatment": [
+      "Fungicides are completely ineffective; bactericides are generally not economically viable or registered for field corn"
+    ],
+    "organic_control": [
+      "Sanitation of field equipment",
+      "Crop rotation",
+      "Residue destruction"
+    ],
+    "chemical_control": [
+      "Chemical options are ineffective and not recommended; do not apply fungicides for this bacterial disease"
+    ],
+    "recommended_fungicides": [],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [],
+    "nutrition_recommendations": [
+      "Maintain balanced crop nutrition to support overall plant vigor and minimize stress-induced susceptibility"
+    ],
+    "irrigation_recommendations": [
+      "Avoid running overhead irrigation during late afternoon or evening hours to limit the duration of continuous leaf moisture"
+    ],
+    "monitoring": [
+      "Scout fields mid-season, holding suspicious leaves up to the sun to check for wavy margins and translucent yellow halos"
+    ],
+    "economic_importance": "An emerging disease in many regions; currently causes minor to moderate yield impacts but presents operational challenges due to misdiagnosis as Gray Leaf Spot.",
+    "risk_level": "Moderate",
+    "diagnosis_notes": [
+      "Look for wavy, jagged margins on the lesions and a distinct yellow halo when backlit. Unlike Gray Leaf Spot, margins are NOT perfectly straight."
+    ],
+    "similar_diseases": [
+      "Gray Leaf Spot",
+      "Stewart's Wilt"
+    ],
+    "references": [
+      "USDA-APHIS Identification Alerts",
+      "University Extension Disease Diagnostics",
+      "EPPO Global Database"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Stewart's Wilt",
+    "scientific_name": "Pantoea stewartii",
+    "disease_type": "Bacterial",
+    "pathogen": "Pantoea stewartii (Smith) Mergaert et al.",
+    "severity": "Moderate to High",
+    "affected_parts": [
+      "Leaves",
+      "Vascular system",
+      "Stalks"
+    ],
+    "symptoms": [
+      "Long, pale green-to-yellow linear lesions that follow leaf veins",
+      "Lesions turn brown, dry, and necrotic over time",
+      "Irregular feeding scars from the corn flea beetle are visible inside the lesions",
+      "Vascular wilting and stunting, particularly in young plants; stalk cavity may show brown discoloration"
+    ],
+    "early_stage": [
+      "Pale green or yellow streaks originating from flea beetle feeding marks on leaves",
+      "Slight wilting of seedling leaves during the heat of the day"
+    ],
+    "advanced_stage": [
+      "Extensive leaf drying, mimicking drought damage across the entire canopy",
+      "Systemic wilting, stunting, and death of young plants (wilt phase)",
+      "Main stalk produces an ooze of yellow bacterial droplets when cut"
+    ],
+    "causes": [
+      "Bacterium is vectored and carried inside the digestive tract of overwintering corn flea beetles"
+    ],
+    "favorable_conditions": [
+      "Mild winter temperatures (which allow high survival rates of the flea beetle vector)",
+      "Warm spring weather"
+    ],
+    "spread_method": [
+      "Vector transmission by the corn flea beetle (Chaetocnema pulicaria) during feeding"
+    ],
+    "prevention": [
+      "Plant highly resistant corn hybrids",
+      "Use systemic insecticidal seed treatments to control the flea beetle vector early in the season",
+      "Monitor winter temperatures to predict vector pressure via the Stevens-Castor model"
+    ],
+    "treatment": [
+      "No curative treatment for systemically infected plants; target the insect vector early"
+    ],
+    "organic_control": [
+      "Using resistant varieties is the primary organic management strategy",
+      "Row covers on small scales to exclude beetles"
+    ],
+    "chemical_control": [
+      "Apply insecticides to control flea beetles early in the season if winter models predict high vector survival and susceptible lines are grown; follow local regulations"
+    ],
+    "recommended_fungicides": [],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [
+      "Clothianidin (as a seed treatment)",
+      "Thiamethoxam (as a seed treatment)",
+      "Permethrin (foliar application for vector control)",
+      "Lambda-cyhalothrin (foliar)"
+    ],
+    "recommended_biological_control": [],
+    "nutrition_recommendations": [
+      "Maintain adequate plant vigor; avoid extreme structural stress on seedlings"
+    ],
+    "irrigation_recommendations": [
+      "Provide adequate moisture to seedlings to prevent compounding the wilt symptoms with true moisture stress"
+    ],
+    "monitoring": [
+      "Count flea beetles on young seedlings (V1-V4 stage); treat if populations exceed economic thresholds (e.g., 5 beetles per plant on susceptible inbreds)"
+    ],
+    "economic_importance": "Historically highly destructive to sweet corn and seed corn inbreds; well managed in commercial field corn via resistance, but remains a critical quarantine concern for seed export.",
+    "risk_level": "Moderate",
+    "diagnosis_notes": [
+      "Look for the long yellow streaks that always contain tiny, dark flea beetle feeding scars inside the lesion pathway."
+    ],
+    "similar_diseases": [
+      "Goss's Wilt",
+      "Northern Corn Leaf Blight"
+    ],
+    "references": [
+      "CABI Crop Protection Compendium",
+      "EPPO Data Sheets",
+      "APS Compendium of Corn Diseases"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Bacterial Stalk Rot",
+    "scientific_name": "Dickeya zeae",
+    "disease_type": "Bacterial",
+    "pathogen": "Dickeya zeae Samson et al. (syn. Pectobacterium chrysanthemi pv. zeae)",
+    "severity": "High",
+    "affected_parts": [
+      "Stalks",
+      "Leaves"
+    ],
+    "symptoms": [
+      "Rapid collapse and lodging of the plant mid-season, often at a single node",
+      "Infected stalk tissue becomes soft, water-soaked, and slimy",
+      "A foul, putrid, disagreeable odor emanates from the rotting tissue",
+      "The top leaves wilt and die rapidly, turning a slimy brown at the base"
+    ],
+    "early_stage": [
+      "Water-soaked appearance of the leaf sheath and stalk around a node",
+      "Slight soft texture when the node is compressed"
+    ],
+    "advanced_stage": [
+      "Complete structural twisting and collapse of the stalk",
+      "Internal pith completely turns into a foul-smelling liquid mush",
+      "Rapid drying and death of the entire plant within days of collapse"
+    ],
+    "causes": [
+      "Bacterial cells enter through natural openings, hydathodes, or wounds, often carried by irrigation water pooling in the whorl"
+    ],
+    "favorable_conditions": [
+      "High temperatures (30-35°C)",
+      "High relative humidity",
+      "Heavy rainfall or continuous overhead sprinkler irrigation from surface water sources"
+    ],
+    "spread_method": [
+      "Water splash, flooding, and overhead irrigation using contaminated surface water; insect wounding"
+    ],
+    "prevention": [
+      "Ensure excellent field drainage to prevent water accumulation",
+      "Avoid using stagnant surface pond water for overhead pivot irrigation",
+      "Select hybrids with structural tolerance",
+      "Clean equipment thoroughly"
+    ],
+    "treatment": [
+      "No effective chemical or biological treatments exist once stalk rot symptoms become visible"
+    ],
+    "organic_control": [
+      "Proper field drainage engineering",
+      "Crop rotation with non-hosts",
+      "Sanitating machinery"
+    ],
+    "chemical_control": [
+      "No registered, economically effective bactericides or chemicals exist for field crops; do not apply fungicides"
+    ],
+    "recommended_fungicides": [],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [],
+    "nutrition_recommendations": [
+      "Avoid over-application of nitrogen which leads to rapid, soft, succulent tissue development that bacteria easily penetrate"
+    ],
+    "irrigation_recommendations": [
+      "Critically important: Do not over-irrigate; manage sprinklers to avoid water accumulation in the plant whorls, especially during hot weather"
+    ],
+    "monitoring": [
+      "Scout fields during hot, humid mid-summer stretches; look for randomly collapsing plants and confirm via the distinctive foul odor"
+    ],
+    "economic_importance": "Can cause high localized losses in specific fields with poor drainage or those utilizing infested surface water under overhead pivots, though rare on a broad geographic scale.",
+    "risk_level": "Moderate",
+    "diagnosis_notes": [
+      "The rapid soft collapse at a node combined with an intensely foul, putrid odor is completely diagnostic for bacterial stalk rot."
+    ],
+    "similar_diseases": [
+      "Pythium Stalk Rot",
+      "Anthracnose Stalk Rot"
+    ],
+    "references": [
+      "APS Compendium of Corn Diseases",
+      "University Cooperative Extension Field Diagnostics",
+      "CABI Crop Protection Compendium"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Pythium Root Rot",
+    "scientific_name": "Pythium spp.",
+    "disease_type": "Oomycete",
+    "pathogen": "Pythium ultimum Trow; Pythium arrhenomanes Drechsler; and other Pythium species",
+    "severity": "Moderate to High",
+    "affected_parts": [
+      "Roots",
+      "Seedlings"
+    ],
+    "symptoms": [
+      "Damping-off of seedlings, causing collapse before or shortly after emergence",
+      "Roots appear water-soaked, soft, and dark brown to black",
+      "The outer root cortex sloughs off easily, leaving the inner vascular thread",
+      "Stunted vegetative growth, leaf yellowing, and uneven stand density"
+    ],
+    "early_stage": [
+      "Delayed or uneven seedling emergence across wet areas of the field",
+      "Slight yellowing and tip burn of early seedling leaves"
+    ],
+    "advanced_stage": [
+      "Complete destruction of the primary and secondary root systems",
+      "Seedlings rot off completely at the soil line",
+      "Surviving plants remain severely stunted, unproductive, and prone to early lodging"
+    ],
+    "causes": [
+      "Oomycete (water mold) structures (oospores) persist indefinitely in soil and germinate under saturated conditions"
+    ],
+    "favorable_conditions": [
+      "Saturated, poorly drained soils",
+      "Cold soil temperatures (10-15°C) for certain species during planting, or warm wet soils for others",
+      "Compacted soils"
+    ],
+    "spread_method": [
+      "Motile zoospores swim through water films in the soil to infect root tips"
+    ],
+    "prevention": [
+      "Use seed treated with targeted oomycete-specific fungicides",
+      "Improve field drainage and eliminate low-lying wet spots",
+      "Avoid planting into cold, waterlogged soils; delay until soils warm and dry structurally"
+    ],
+    "treatment": [
+      "No post-emergence curative treatment; rescue options do not exist for infected roots"
+    ],
+    "organic_control": [
+      "Controlled strip-tillage to warm up seedbeds",
+      "Installing tile drainage",
+      "Using high-vigor seed lots"
+    ],
+    "chemical_control": [
+      "Apply specific oomycete-targeted seed treatments prior to planting; standard fungal treatments are ineffective. Adhere to regional regulations"
+    ],
+    "recommended_fungicides": [
+      "Metalaxyl (as a seed treatment)",
+      "Mefenoxam (as a seed treatment)",
+      "Ethaboxam (as a seed treatment)",
+      "Oxathiapiprolin (as a seed treatment)"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [
+      "Trichoderma virens strains"
+    ],
+    "nutrition_recommendations": [
+      "Apply a balanced starter fertilizer high in phosphorus close to the seed row to stimulate rapid root escape growth"
+    ],
+    "irrigation_recommendations": [
+      "Avoid pre-emergence over-irrigation; manage irrigation schedules strictly to prevent water saturation and pooling in fields"
+    ],
+    "monitoring": [
+      "Dig up stunted, chlorotic seedlings in low-lying, wet areas during the first 4 weeks post-planting; wash roots to check for sloughing cortex"
+    ],
+    "economic_importance": "A major driver of poor plant stands, requiring expensive replanting operations and causing significant early yield potential reduction due to uneven crop competition.",
+    "risk_level": "Moderate",
+    "diagnosis_notes": [
+      "Identified by dark, water-soaked roots where the outer cortex easily slips off the vascular core, combined with waterlogged soil history."
+    ],
+    "similar_diseases": [
+      "Fusarium Root Rot",
+      "Rhizoctonia Root Rot"
+    ],
+    "references": [
+      "APS Compendium of Corn Diseases",
+      "Ohio State University Extension Agronomy Guides",
+      "CABI Crop Protection Compendium"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Fusarium Stalk Rot",
+    "scientific_name": "Fusarium verticillioides",
+    "disease_type": "Fungal",
+    "pathogen": "Fusarium verticillioides (Sacc.) Nirenberg; Fusarium proliferatum (Matsush.) Nirenberg",
+    "severity": "Moderate to High",
+    "affected_parts": [
+      "Stalks",
+      "Roots"
+    ],
+    "symptoms": [
+      "Internal pith of the stalk disintegrates and displays a whitish-pink to salmon discoloration",
+      "Lower internodes become soft, easily crushed by finger pressure",
+      "Leaves turn dull grayish-green prematurely, resembling frost damage",
+      "Stalk lodging occurs near the base of the plant prior to harvest"
+    ],
+    "early_stage": [
+      "Premature wilting and drying of the upper leaves late in the grain fill period",
+      "Slight softening of the lowest stalk internodes"
+    ],
+    "advanced_stage": [
+      "Complete stringy disintegration of the internal stalk pith, leaving only the vascular strands",
+      "Distinct pinkish-salmon tint inside the stalk",
+      "Widespread lodging across the field, especially under high winds"
+    ],
+    "causes": [
+      "Fungus enters through the roots or wounds and colonizes the stalk systemically, accelerating when the plant draws down stalk carbohydrates"
+    ],
+    "favorable_conditions": [
+      "Warm weather post-pollination",
+      "Drought stress or cloudiness during grain fill followed by wet weather",
+      "Any factor reducing photosynthesis (leaf blights, insect feeding)"
+    ],
+    "spread_method": [
+      "Soil-borne inoculum and crop residue conidia entering through root systems or stalk wounds"
+    ],
+    "prevention": [
+      "Select hybrids with excellent stalk strength and disease resistance packages",
+      "Avoid excessively high plant populations that increase competition and stress",
+      "Control leaf diseases to maintain photosynthetic capacity"
+    ],
+    "treatment": [
+      "Foliar fungicides applied at VT/R1 can help indirectly by preserving leaf health and reducing carbohydrate stress"
+    ],
+    "organic_control": [
+      "Balanced crop rotation",
+      "Proper plant spacing to reduce individual plant stress",
+      "Residue incorporation"
+    ],
+    "chemical_control": [
+      "No direct curative chemical treatment for the stalk interior; management focuses on preventative agronomy and hybrid selection"
+    ],
+    "recommended_fungicides": [
+      "Pyraclostrobin + Fluxapyroxad (for foliar health)"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [
+      "Insecticides targeting stalk-boring insects to eliminate structural entry wounds"
+    ],
+    "recommended_biological_control": [],
+    "nutrition_recommendations": [
+      "Ensure strict balance between Nitrogen and Potassium; avoid excessive N paired with deficient K, which severely weakens stalk rinds"
+    ],
+    "irrigation_recommendations": [
+      "Provide steady, uniform irrigation throughout the reproductive and grain-fill stages to prevent carbohydrate cannibalization from the stalk"
+    ],
+    "monitoring": [
+      "Conduct the pinch or push test on lower internodes of 100 consecutive plants at mid-to-late grain fill to evaluate stalk integrity"
+    ],
+    "economic_importance": "Highly significant contributor to harvest losses and mechanical harvesting difficulties due to stalk lodging and ear drop globally.",
+    "risk_level": "Moderate",
+    "diagnosis_notes": [
+      "Look for the whitish-pink or salmon-pink coloration inside the shredded stalk pith, lacking the dark black external streaks of Anthracnose."
+    ],
+    "similar_diseases": [
+      "Gibberella Stalk Rot",
+      "Anthracnose Stalk Rot",
+      "Diplodia Stalk Rot"
+    ],
+    "references": [
+      "APS Compendium of Corn Diseases",
+      "Purdue University Extension Field Crop Manuals",
+      "CIMMYT Maize Field Guide"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Charcoal Rot",
+    "scientific_name": "Macrophomina phaseolina",
+    "disease_type": "Fungal",
+    "pathogen": "Macrophomina phaseolina (Tassi) Goid.",
+    "severity": "Moderate to High",
+    "affected_parts": [
+      "Stalks",
+      "Roots"
+    ],
+    "symptoms": [
+      "Internal stalk pith breaks down, leaving vascular bundles covered in millions of microscopic black specks (microsclerotia)",
+      "The internal stalk takes on a distinct grayish-black, charcoal-like appearance",
+      "Premature ripening and drying of the plant",
+      "Stalk lodging and structural collapse near the soil line"
+    ],
+    "early_stage": [
+      "Premature drying of upper leaves, turning streaks of light brown during late grain fill",
+      "Roots show small, dark, water-soaked streaks"
+    ],
+    "advanced_stage": [
+      "Lower internodes are completely hollowed out and black inside, resembling charcoal dust",
+      "Rind becomes extremely brittle and breaks easily at the base",
+      "Microsclerotia can be scraped off internal fibers"
+    ],
+    "causes": [
+      "Fungus survives for many years in the soil or residue as highly resilient microsclerotia"
+    ],
+    "favorable_conditions": [
+      "Hot (above 30-35°C) and extremely dry weather during the reproductive and grain filling stages",
+      "Severe drought stress"
+    ],
+    "spread_method": [
+      "Soil-borne microsclerotia germinate and penetrate root tissues directly during periods of heat and moisture stress"
+    ],
+    "prevention": [
+      "Select drought-tolerant hybrids with strong lodging resistance scores",
+      "Implement conservation tillage or mulch to conserve soil moisture and lower soil temperatures",
+      "Avoid overly high plant densities in non-irrigated fields"
+    ],
+    "treatment": [
+      "Chemical applications are completely ineffective; management relies entirely on moisture preservation and hybrid selection"
+    ],
+    "organic_control": [
+      "Crop rotation with non-hosts for 2+ years",
+      "Applying organic mulches or cover crops to retain soil moisture"
+    ],
+    "chemical_control": [
+      "No registered or effective chemical fungicides exist for Charcoal Rot in field corn"
+    ],
+    "recommended_fungicides": [],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [
+      "Trichoderma harzianum strains as a soil amendment"
+    ],
+    "nutrition_recommendations": [
+      "Maintain optimal potassium levels to support osmotic regulation and improve drought tolerance within the plant"
+    ],
+    "irrigation_recommendations": [
+      "Critically important: Maintain adequate irrigation during and after pollination to prevent the severe drought stress that triggers Charcoal Rot development"
+    ],
+    "monitoring": [
+      "Scout hot, dry fields close to harvest; split open the lower 20 cm of stalks on wilted plants to check for the charcoal-like dust appearance"
+    ],
+    "economic_importance": "Can cause serious localized yield losses and severe lodging in semi-arid, hot corn-growing regions under dryland management.",
+    "risk_level": "Moderate",
+    "diagnosis_notes": [
+      "The absolute presence of millions of tiny black microsclerotia inside the disintegrated stalk, giving it a gray-black charcoal look, is definitive."
+    ],
+    "similar_diseases": [
+      "Gibberella Stalk Rot",
+      "Fusarium Stalk Rot"
+    ],
+    "references": [
+      "APS Compendium of Corn Diseases",
+      "FAO Dryland Agriculture Manuals",
+      "CABI Crop Protection Compendium"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Maize Dwarf Mosaic Virus",
+    "scientific_name": "Maize dwarf mosaic virus",
+    "disease_type": "Viral",
+    "pathogen": "Maize dwarf mosaic virus (MDMV) (Potyvirus)",
+    "severity": "Low to Moderate",
+    "affected_parts": [
+      "Leaves",
+      "Whole Plant"
+    ],
+    "symptoms": [
+      "Finely mottled mosaic pattern of alternating light-green and dark-green patches on leaves",
+      "Symptoms are most pronounced on young, expanding leaves",
+      "Infected plants may display severe stunting if infected as seedlings",
+      "Poor ear development, reduced seed set, and occasional reddish coloration of leaves late in the season"
+    ],
+    "early_stage": [
+      "Small chlorotic spots or flecks forming broken linear stripes on the youngest leaves",
+      "Slightly lighter green overall canopy color"
+    ],
+    "advanced_stage": [
+      "Classic intense green/yellow mosaic pattern across all foliage",
+      "Severe shortening of internodes (stunting)",
+      "Barren stalks or poorly filled ears with distorted kernel rows"
+    ],
+    "causes": [
+      "Virus is transmitted from overwintering perennial grass hosts (especially Johnsongrass) to corn by aphid vectors"
+    ],
+    "favorable_conditions": [
+      "Abundant populations of aphid vectors",
+      "Proximity to large stands of infected Johnsongrass or other wild perennial grasses",
+      "Early planting dates coinciding with vector flights"
+    ],
+    "spread_method": [
+      "Vector transmission by more than 20 species of aphids (e.g., Rhopalosiphum maidis) in a non-persistent manner; can be mechanically transmitted"
+    ],
+    "prevention": [
+      "Plant resistant or tolerant corn hybrids",
+      "Eradicate Johnsongrass and perennial wild grasses within and around field borders",
+      "Manage planting windows to avoid peak aphid migration times"
+    ],
+    "treatment": [
+      "There is no direct curative chemical treatment for viral diseases once a plant is infected"
+    ],
+    "organic_control": [
+      "Rigorous weed management around fields to eliminate viral reservoirs",
+      "Selecting resistant seed lines"
+    ],
+    "chemical_control": [
+      "Insecticides targeting aphids are generally ineffective at preventing transmission because non-persistent transmission occurs within seconds of probing; follow local guidelines"
+    ],
+    "recommended_fungicides": [],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [],
+    "nutrition_recommendations": [
+      "Ensure standard balanced nutrition to support plant vigor, though it will not cure or halt the viral progression"
+    ],
+    "irrigation_recommendations": [
+      "Provide adequate water to reduce compound stress on stunted, virus-infected root systems"
+    ],
+    "monitoring": [
+      "Scout early vegetative corn, examining the whorl and newest leaves for fine mottling, while checking for the presence of aphids"
+    ],
+    "economic_importance": "Historically significant, but currently well controlled via commercial hybrid resistance; remains a threat where susceptible lines are close to infected wild grasses.",
+    "risk_level": "Low",
+    "diagnosis_notes": [
+      "Look for the fine, dark and light green mosaic mottling on the youngest leaves, often originating near wild grass reservoirs."
+    ],
+    "similar_diseases": [
+      "Maize Chlorotic Mottle Virus",
+      "Wheat Streak Mosaic Virus",
+      "Nutrient Deficiencies (Zinc/Iron)"
+    ],
+    "references": [
+      "APS Compendium of Corn Diseases",
+      "CABI Crop Protection Compendium",
+      "University Extension Virology Updates"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Maize Chlorotic Mottle Virus",
+    "scientific_name": "Maize chlorotic mottle virus",
+    "disease_type": "Viral",
+    "pathogen": "Maize chlorotic mottle virus (MCMV) (Machlomovirus)",
+    "severity": "High",
+    "affected_parts": [
+      "Leaves",
+      "Ears",
+      "Whole Plant"
+    ],
+    "symptoms": [
+      "Fine chlorotic spots that coalesce into extensive yellow streaks along leaf veins",
+      "Mild to severe leaf chlorosis and drying starting from the margins",
+      "Shortened internodes leading to notable plant stunting",
+      "Malformed, small, or completely barren ears with severe kernel abortion"
+    ],
+    "early_stage": [
+      "Delicate, faint chlorotic speckling on the leaves",
+      "Slight pale green appearance of the whorl"
+    ],
+    "advanced_stage": [
+      "Widespread bright yellow chlorosis across the foliage",
+      "Leaf necrosis starting at the tips and moving inward",
+      "Severe plant stunting and direct synergy with potyviruses to cause lethal necrosis"
+    ],
+    "causes": [
+      "Virus is introduced and spread within fields by chrysomelid beetle vectors and contaminated seed lots"
+    ],
+    "favorable_conditions": [
+      "High populations of beetle vectors (corn rootworms, flea beetles)",
+      "Continuous corn production systems",
+      "Warm climates favoring vector survival"
+    ],
+    "spread_method": [
+      "Vector transmission by corn rootworm beetles (Diabrotica spp.), flea beetles, and thrips; low rate of seed transmission"
+    ],
+    "prevention": [
+      "Plant resistant or tolerant hybrids if available locally",
+      "Implement strict crop rotation out of corn for 2 years to break vector cycles",
+      "Use certified disease-free clean seed stocks"
+    ],
+    "treatment": [
+      "There is no direct curative chemical treatment for viral diseases once a plant is infected"
+    ],
+    "organic_control": [
+      "Strict crop rotation away from all grass crops",
+      "Managing vector populations using organic traps or botanical sprays"
+    ],
+    "chemical_control": [
+      "Vector management through targeted insecticidal seed treatments or foliar sprays against adult beetles may help reduce secondary spread; follow local laws"
+    ],
+    "recommended_fungicides": [],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [
+      "Clothianidin (seed treatment for rootworm vectors)",
+      "Bifenthrin (foliar spray for adult beetles)"
+    ],
+    "recommended_biological_control": [],
+    "nutrition_recommendations": [
+      "Maintain adequate balanced fertilizer applications to support structural growth under viral pressure"
+    ],
+    "irrigation_recommendations": [
+      "Maintain consistent irrigation to minimize environmental stress that accelerates viral leaf drying"
+    ],
+    "monitoring": [
+      "Scout fields regularly for unexplained leaf yellowing and stunting, checking closely for rootworm or flea beetle feeding damage"
+    ],
+    "economic_importance": "Highly important independently, but critically dangerous as the indispensable component of Maize Lethal Necrosis (MLN), which causes devastating food security failures.",
+    "risk_level": "High",
+    "diagnosis_notes": [
+      "Characterized by fine chlorotic mottling that transitions into widespread margin-first leaf yellowing and stunting, coupled with vector presence."
+    ],
+    "similar_diseases": [
+      "Maize Dwarf Mosaic Virus",
+      "Maize Lethal Necrosis"
+    ],
+    "references": [
+      "CIMMYT Maize Lethal Necrosis Management Guides",
+      "APS Compendium of Corn Diseases",
+      "EPPO Global Database"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Maize Lethal Necrosis",
+    "scientific_name": "Maize lethal necrosis disease",
+    "disease_type": "Viral (Co-infection)",
+    "pathogen": "Co-infection of Maize chlorotic mottle virus (MCMV) AND a Potyvirus (e.g., Maize dwarf mosaic virus - MDMV, or Sugarcane mosaic virus - SCMV)",
+    "severity": "Critical / Catastrophic",
+    "affected_parts": [
+      "Whole Plant",
+      "Leaves",
+      "Ears",
+      "Stalks"
+    ],
+    "symptoms": [
+      "Severe, rapid yellowing and drying of leaves starting from the margins moving inward",
+      "Dead heart symptom where the inner whorl dies and dries up completely",
+      "Extreme stunting of the entire plant with shortened internodes",
+      "Ears are completely barren, deformed, or contain zero grain set; premature death of the entire plant"
+    ],
+    "early_stage": [
+      "Intense chlorotic mottling and yellowing of the young leaves",
+      "Severe growth lag compared to healthy plants"
+    ],
+    "advanced_stage": [
+      "Complete necrosis and death of the vegetative whorl (dead heart)",
+      "The entire field takes on a scorched, brown, dead appearance before flowering",
+      "Total crop failure with zero harvestable grain"
+    ],
+    "causes": [
+      "Synergistic co-infection when a single corn plant is simultaneously infected by both MCMV and a grass-infecting potyvirus"
+    ],
+    "favorable_conditions": [
+      "Continuous corn cropping without breaks",
+      "High populations of mixed vectors (aphids, thrips, and beetles) year-round",
+      "Presence of alternative grass hosts near fields"
+    ],
+    "spread_method": [
+      "Combined vector transmission: aphids transmit the potyvirus; thrips and beetles transmit MCMV. Can also spread via contaminated seed rows"
+    ],
+    "prevention": [
+      "Plant specifically bred MLN-resistant hybrids",
+      "Enforce a strict community-wide host-free period or crop rotation break away from corn",
+      "Control alternative grass weeds rigorously",
+      "Use certified clean seed"
+    ],
+    "treatment": [
+      "There is no direct curative chemical treatment for viral diseases; infected plants must be removed or destroyed"
+    ],
+    "organic_control": [
+      "Enforcing strict crop rotation and synchronous planting dates across regions",
+      "Immediate roguing and burning of early infected plants"
+    ],
+    "chemical_control": [
+      "No chemical curative options exist. Intense vector control using registered insecticides may be used defensively but rarely prevents primary infection; follow local mandates"
+    ],
+    "recommended_fungicides": [],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [
+      "Systemic insecticidal seed treatments and targeted foliar sprays to suppress thrips, beetles, and aphids"
+    ],
+    "recommended_biological_control": [],
+    "nutrition_recommendations": [
+      "Fertilization is ineffective at preventing or mitigating MLN; focus entirely on resistance and exclusion"
+    ],
+    "irrigation_recommendations": [
+      "Irrigation cannot save MLN-infected plants; prioritize water conservation or healthy sections"
+    ],
+    "monitoring": [
+      "Scout fields weekly post-emergence; instantly report and isolate areas showing rapid margin necrosis and whorl death"
+    ],
+    "economic_importance": "Catastrophic economic and food security impact, particularly in East Africa, where it has caused complete crop failure and massive local economic damage.",
+    "risk_level": "Critical",
+    "diagnosis_notes": [
+      "Identified by the extreme synergy of symptoms: rapid margin-inward drying, dead hearts, complete stunting, and total ear barrenness."
+    ],
+    "similar_diseases": [
+      "Maize Chlorotic Mottle Virus",
+      "Severe Drought",
+      "Severe Nutrient Deficiency"
+    ],
+    "references": [
+      "CIMMYT MLN Portal and Diagnostics",
+      "FAO Emergency Plant Disease Bulletins",
+      "CABI Crop Protection Compendium"
+    ]
+  },
+  {
+    "plant": "Corn (Maize)",
+    "disease": "Downy Mildew",
+    "scientific_name": "Peronosclerospora sorghi",
+    "disease_type": "Oomycete",
+    "pathogen": "Peronosclerospora sorghi (Weston & Uppal) C.G. Shaw; and other Peronosclerospora species",
+    "severity": "High",
+    "affected_parts": [
+      "Leaves",
+      "Tassels",
+      "Ears",
+      "Whole Plant"
+    ],
+    "symptoms": [
+      "Distinct vivid chlorotic stripes running parallel along the leaf blade",
+      "A white, downy, furry fungal-like growth appears on the lower leaf surface under humid conditions",
+      "Infected leaves become narrow, erect, thickened, and brittle",
+      "Deformed reproductive structures, including 'crazy top' (phyllody of the tassel) and barren ears"
+    ],
+    "early_stage": [
+      "Systemically infected seedlings emerge pale green to yellow and stunted",
+      "Appearance of long, light-green to yellow bands extending from the leaf base"
+    ],
+    "advanced_stage": [
+      "Chlorotic stripes turn brown and necrotic, leaf blades shred longitudinally",
+      "Tassel transforms into a mass of distorted leafy structures (crazy top)",
+      "Ears are completely barren or replaced by leafy growths, resulting in no grain production"
+    ],
+    "causes": [
+      "Oomycete pathogen overwinters as oospores in the soil or spreads via wind-blown conidia from infected alternative hosts (sorghum, wild grasses)"
+    ],
+    "favorable_conditions": [
+      "High relative humidity (over 90%)",
+      "Warm night temperatures (20-25°C) paired with heavy morning dews",
+      "Saturated soils during early seedling stages"
+    ],
+    "spread_method": [
+      "Soil-borne oospores infect roots systemically; airborne conidia produced at night spread the disease to leaves during humid conditions"
+    ],
+    "prevention": [
+      "Plant highly resistant corn hybrids adapted to the region",
+      "Use systemic oomycete-targeted seed treatments",
+      "Implement crop rotation with non-grass crops",
+      "Eradicate wild sorghum species near fields"
+    ],
+    "treatment": [
+      "Foliar fungicide treatments are rarely effective or economical; prevention via seed treatment is vital"
+    ],
+    "organic_control": [
+      "Deep plowing to bury soil oospores deeply",
+      "Strict crop rotation out of susceptible grasses",
+      "Early roguing of systematically infected chlorotic seedlings"
+    ],
+    "chemical_control": [
+      "Apply registered systemic oomycete-specific seed treatments prior to planting; comply with all local agricultural regulations"
+    ],
+    "recommended_fungicides": [
+      "Metalaxyl (as a seed treatment)",
+      "Mefenoxam (as a seed treatment)"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [],
+    "nutrition_recommendations": [
+      "Provide balanced starter fertilizers to promote rapid early growth, enabling seedlings to outpace systemic infection vulnerability"
+    ],
+    "irrigation_recommendations": [
+      "Avoid waterlogging fields post-planting; schedule irrigation to prevent prolonged leaf wetness during warm nights"
+    ],
+    "monitoring": [
+      "Scout fields 3-6 weeks after planting, looking for distinctly pale, striped, erect leaves and looking beneath leaves for the white fuzzy growth"
+    ],
+    "economic_importance": "Highly important in tropical and subtropical regions (e.g., Southeast Asia, parts of Africa and the Americas), where it can cause up to 100% yield loss in susceptible fields.",
+    "risk_level": "High",
+    "diagnosis_notes": [
+      "Look for the long parallel chlorotic stripes, the signature fuzzy downy white growth underneath the leaves, and leaf shredding."
+    ],
+    "similar_diseases": [
+      "Crazy Top Downy Mildew",
+      "Maize Dwarf Mosaic Virus",
+      "Genetic Striation"
+    ],
+    "references": [
+      "CIMMYT Tropical Maize Diseases Manual",
+      "APS Compendium of Corn Diseases",
+      "FAO Plant Health Papers"
+    ]
+  }
+]

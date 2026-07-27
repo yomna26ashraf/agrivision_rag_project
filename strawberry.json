@@ -1,0 +1,434 @@
+[
+  {
+    "crop_name": "Strawberry",
+    "class_name": "Leaf Spot",
+    "is_healthy": false,
+    "description": "Also known as common leaf spot, it is a prevalent fungal disease affecting strawberry foliage, significantly reducing photosynthetic capability when severe.",
+    "pathogen": "Mycosphaerella fragariae",
+    "symptoms": [
+      "Circular, deep purple spots on the upper leaf surface.",
+      "Spots enlarge to about 1/4 inch in diameter with centers turning grayish-white on older leaves and light brown on young leaves.",
+      "A definite reddish-purple to rusty-brown border surrounds the leaf spots.",
+      "Black fungal fruiting bodies visible in the light-colored centers of older lesions.",
+      "Superficial black spots about 1/4 inch in diameter forming on ripe fruit around groups of seeds under moist conditions."
+    ],
+    "affected_parts": [
+      "Leaves",
+      "Petioles",
+      "Stems",
+      "Runners",
+      "Fruit"
+    ],
+    "favorable_conditions": [
+      "Wet weather conditions.",
+      "Frequent prolonged periods of leaf wetness."
+    ],
+    "spread": [
+      "Splashing rain.",
+      "Overwintering spores inside debris of infected leaves and plants."
+    ],
+    "prevention": [
+      "Select and plant resistant strawberry cultivars.",
+      "Use clean, certified disease-free planting material."
+    ],
+    "integrated_management": [
+      "Remove infected leaves and old leaf debris from the field to reduce overwintering inoculum.",
+      "Apply mulch to prevent soil and water splash onto foliage.",
+      "Increase plant spacing to improve air circulation and encourage rapid leaf drying."
+    ],
+    "treatment": [
+      "Apply protective fungicides if the disease becomes severe and weather conditions favor spread."
+    ],
+    "safety_notes": [
+      "Follow fungicide label instructions regarding personal protective equipment (PPE) and restricted-entry intervals (REI)."
+    ],
+    "sources": [
+      {
+        "title": "Strawberry Leaf Diseases",
+        "organization": "Ohio State University Extension",
+        "url": "https://ohioline.osu.edu/factsheet/plpath-fru-35"
+      },
+      {
+        "title": "Leaf Spot of Strawberry | Scouting Guide for Problems of Fruit",
+        "organization": "University of Kentucky Extension",
+        "url": "https://fruitscout.mgcafe.uky.edu/leaf-spot-strawberry"
+      }
+    ]
+  },
+  {
+    "crop_name": "Strawberry",
+    "class_name": "Healthy Strawberry",
+    "is_healthy": true,
+    "description": "Strawberry plants exhibiting normal physiological development, free from macroscopic symptoms or signs of infectious disease, pathogen colonization, or nutrient deficiencies.",
+    "pathogen": null,
+    "symptoms": [],
+    "affected_parts": [],
+    "favorable_conditions": [
+      "Optimal daytime temperatures between 60°F and 80°F.",
+      "Well-drained soils with balanced nutrient profiles.",
+      "Adequate spacing ensuring low canopy humidity and rapid drying."
+    ],
+    "spread": [],
+    "prevention": [
+      "Planting certified disease-free transplants.",
+      "Utilizing drip irrigation instead of overhead systems to prevent canopy wetness."
+    ],
+    "integrated_management": [
+      "Regular scouting of fields to monitor for early signs of pests or stressors.",
+      "Maintaining good sanitation by removing weeds and plant debris."
+    ],
+    "treatment": null,
+    "safety_notes": [],
+    "sources": [
+      {
+        "title": "Integrated Pest Management for Strawberries",
+        "organization": "University of California Statewide IPM Program",
+        "url": "https://ipm.ucanr.edu"
+      }
+    ]
+  },
+  {
+    "crop_name": "Strawberry",
+    "class_name": "Powdery Mildew Leaf",
+    "is_healthy": false,
+    "description": "A foliar phase of powdery mildew caused by an obligate fungal parasite that thrives in high-humidity microclimates, significantly causing leaf curling and tissue discoloration.",
+    "pathogen": "Podosphaera aphanis",
+    "symptoms": [
+      "Small white patches of fungal mycelium growing on the lower leaf surface.",
+      "Dense powdery white appearance on the underside of leaves as mycelial growth expands.",
+      "Irregular yellow or reddish-brown spots developing on the lower leaf surface and breaking through to the upper surface in certain cultivars.",
+      "Upward curling of the edges of heavily infected leaves.",
+      "Production of small round chasmothecia (cleistothecia) on leaf undersides, changing from white to black as they mature."
+    ],
+    "affected_parts": [
+      "Leaves"
+    ],
+    "favorable_conditions": [
+      "Moderate to high relative humidity.",
+      "Temperatures between 60°F and 80°F.",
+      "Protected culture environments such as greenhouses or plastic tunnels where dry conditions coincide with high humidity."
+    ],
+    "spread": [
+      "Wind-dispersed asexual conidia (spores).",
+      "Introduction of infected, living green transplants from nursery operations."
+    ],
+    "prevention": [
+      "Utilize cultivars exhibiting higher degrees of genetic resistance.",
+      "Attempt to source powdery-mildew-free transplants."
+    ],
+    "integrated_management": [
+      "Regularly survey fields with susceptible cultivars early in the growing season.",
+      "Avoid excess shading and maintain proper plant densities to mitigate high-humidity pockets within the plant canopy."
+    ],
+    "treatment": [
+      "Apply protective fungicides, such as elemental sulfur, preventively or at the first structural sign of the disease.",
+      "Rotate systemic fungicides (e.g., pyraclostrobin + fluxapyroxad, fluopyram, or penthiopyrad) to avoid the development of pathogen resistance."
+    ],
+    "safety_notes": [
+      "Free water from rain, heavy dew, and overhead irrigation actively inhibits this specific fungus.",
+      "Adhere strictly to chemical rotation guidelines due to high baseline risks of fungicide resistance."
+    ],
+    "sources": [
+      {
+        "title": "Powdery Mildew of Strawberry",
+        "organization": "University of Florida IFAS Extension",
+        "url": "https://ask.ifas.ufl.edu/publication/PP129"
+      }
+    ]
+  },
+  {
+    "crop_name": "Strawberry",
+    "class_name": "Gray Mold",
+    "is_healthy": false,
+    "description": "A devastating, globally distributed fungal disease capable of infecting almost all plant tissues, causing severe pre- and post-harvest fruit decay and yield losses exceeding 50%.",
+    "pathogen": "Botrytis cinerea",
+    "symptoms": [
+      "Infected fruit tissues turn light to medium brown in color.",
+      "Development of a velvety, grayish-colored mass of fungal mycelium and conidia over infected surfaces under high humidity.",
+      "Infections under low humidity present as brown, shriveled, and leathery tissue without visible sporulation.",
+      "Small brown lesions appearing on the berry, frequently initiating directly beneath the calyx.",
+      "Mummification of heavily diseased fruit."
+    ],
+    "affected_parts": [
+      "Fruit",
+      "Flowers",
+      "Leaves",
+      "Runners (stolons)",
+      "Shoots"
+    ],
+    "favorable_conditions": [
+      "Cool weather combined with frequent rainfall or free water during the flowering and fruiting periods.",
+      "High relative humidity within dense plant canopies."
+    ],
+    "spread": [
+      "Microscopic asexual spores (conidia) dispersed by wind and water splash.",
+      "Mycelium and sclerotia overwintering in plant detritus, dead leaves, and alternative weed hosts."
+    ],
+    "prevention": [
+      "Select cultivars with open canopy architecture to improve ventilation.",
+      "Avoid excessive nitrogen fertilization that promotes overly dense foliar growth."
+    ],
+    "integrated_management": [
+      "Strict sanitation, including the physical removal and destruction of infected or senescing plant tissue and mummified berries.",
+      "Utilize drip irrigation rather than overhead systems to minimize canopy wetness.",
+      "Apply straw mulch to create a physical barrier between the soil debris and developing clusters."
+    ],
+    "treatment": [
+      "Apply targeted protectant and systemic fungicides during the critical bloom period when flowers are highly susceptible.",
+      "Utilize predictive tools like the Strawberry Advisory System (StAS) to optimize spray timing based on leaf wetness and temperature."
+    ],
+    "safety_notes": [
+      "Latent infections can establish during bloom and remain completely dormant until fruit sugar content increases during ripening, leading to sudden post-harvest rot."
+    ],
+    "sources": [
+      {
+        "title": "Botrytis Fruit Rot | NYSIPM Fact Sheet",
+        "organization": "Cornell University CALS",
+        "url": "https://cals.cornell.edu/integrated-pest-management/outreach-education/fact-sheets/botrytis-fruit-rot"
+      },
+      {
+        "title": "Botrytis Fruit Rot / Strawberry / Agriculture",
+        "organization": "University of California Statewide IPM Program",
+        "url": "https://ipm.ucanr.edu/agriculture/strawberry/botrytis-fruit-rot/"
+      }
+    ]
+  },
+  {
+    "crop_name": "Strawberry",
+    "class_name": "Angular Leafspot",
+    "is_healthy": false,
+    "description": "The only major bacterial disease affecting strawberries, primarily inducing foliar damage but capable of causing system-wide collapse and severe export quarantine issues.",
+    "pathogen": "Xanthomonas fragariae",
+    "symptoms": [
+      "Tiny, water-soaked lesions appearing on the lower leaf surface, strictly delimited by small veins.",
+      "Lesions appear angular, translucent, and yellow to pale green when held up to a light source.",
+      "Lesions appear dark green and opaque when viewed from above under reflected light.",
+      "A slimy white film or milky bacterial exudate oozing from spots under wet conditions.",
+      "Exudate dries into a scaly film, producing white flakes that can be scraped off the leaf.",
+      "Lesions merge over time, appearing on upper leaf surfaces as reddish-brown necrotic areas.",
+      "Ragged leaf margins as dead tissue dries out and breaks off."
+    ],
+    "affected_parts": [
+      "Leaves",
+      "Calyxes",
+      "Peduncles",
+      "Runners (stolons)",
+      "Crowns",
+      "Roots"
+    ],
+    "favorable_conditions": [
+      "Cool to moderate daytime temperatures (65°F to 70°F) coupled with cold nighttime temperatures near freezing.",
+      "Wet conditions driven by rain, heavy dew, or overhead irrigation.",
+      "Vigorously growing, young vegetative tissue."
+    ],
+    "spread": [
+      "Splashing rain and overhead irrigation water transferring bacterial cells.",
+      "Introduction into clean fields via infected systemic transplants.",
+      "Field workers handling plants when the foliage is physically wet."
+    ],
+    "prevention": [
+      "Exclusively use certified, disease-free transplants, as no commercially available varieties possess full resistance.",
+      "Enforce strict sanitation protocols for tools and footwear between fields."
+    ],
+    "integrated_management": [
+      "Avoid the use of overhead irrigation to minimize water splash.",
+      "Increase plant spacing to accelerate canopy drying.",
+      "Physically remove infected foliage if operating on a manageable scale.",
+      "Implement crop rotation to avoid planting into infested residue."
+    ],
+    "treatment": [
+      "Chemical controls are generally ineffective.",
+      "Copper-containing compounds are registered for use but offer limited efficacy and can cause direct phytotoxicity with repeated applications."
+    ],
+    "safety_notes": [
+      "The bacterium is host-specific to strawberry and does not survive free-living in the soil without host debris, though it can survive inside buried debris for long periods.",
+      "Systemic movement into crowns can cause sudden vascular collapse and plant death."
+    ],
+    "sources": [
+      {
+        "title": "Strawberry Disorder: Angular Leaf Spot",
+        "organization": "University of Wisconsin-Madison Extension",
+        "url": "https://barron.extension.wisc.edu/files/2023/02/Strawberry-Disorder-Angular-Leaf-Spot.pdf"
+      },
+      {
+        "title": "Angular Leaf Spot of Strawberries",
+        "organization": "LSU AgCenter",
+        "url": "https://www.lsuagcenter.com/NR/rdonlyres/ADAB5E35-9EC6-410D-A3C9-3ECDAD304AA4/75693/pub3177AngularLeafSpotonStrawberriesHIGHRES.pdf"
+      },
+      {
+        "title": "Angular Leaf Spot / Strawberry / Agriculture",
+        "organization": "University of California Statewide IPM Program",
+        "url": "https://ipm.ucanr.edu/agriculture/strawberry/angular-leaf-spot/"
+      }
+    ]
+  },
+  {
+    "crop_name": "Strawberry",
+    "class_name": "Blossom Blight",
+    "is_healthy": false,
+    "description": "A destructive disease complex of strawberry flowers caused by bacterial or fungal agents, leading to direct flower abortion, malformed fruit development, or latent fruit infections.",
+    "pathogen": "Botrytis cinerea or Xanthomonas fragariae or Cladosporium cladosporioides",
+    "symptoms": [
+      "Bacterial (X. fragariae) symptoms show dark green, water-soaked lesions on sepals under reflected light, appearing translucent under transmitted light.",
+      "Water-soaking of the base of the calyx extending rapidly into the pedicel, causing necrosis.",
+      "Fungal (C. cladosporioides) infections turn anthers black, covered with olivaceous green-gray sporulation.",
+      "Fungal (B. cinerea) symptoms cause rapid browning and dry rotting of petals, pistils, and reproductive organs within days of opening.",
+      "Girdling and collapse of the pedicel, leading to complete blighting of the attached flower cluster."
+    ],
+    "affected_parts": [
+      "Flowers",
+      "Sepals",
+      "Petals",
+      "Anthers",
+      "Pistils",
+      "Pedicels"
+    ],
+    "favorable_conditions": [
+      "Extended periods of cool, wet weather coinciding exactly with open blossoms.",
+      "High relative humidity within the plant canopy during spring bloom."
+    ],
+    "spread": [
+      "Water splash from rain or overhead irrigation dispersing pathogens onto open flower parts.",
+      "Wind dissemination of fungal conidia across planting rows."
+    ],
+    "prevention": [
+      "Source certified disease-free planting material to prevent bringing bacterial blighters into fields.",
+      "Select production sites with good air drainage."
+    ],
+    "integrated_management": [
+      "Strict avoidance of overhead irrigation during the flowering window.",
+      "Maintain rigorous weed control to eliminate microclimatic humidity and alternative hosts."
+    ],
+    "treatment": [
+      "Apply protective fungicides targeted for Botrytis at early bloom (pre-bloom through fruit set).",
+      "For bacterial agents, copper sprays may be applied early if labeled, but carry risks of flower phytotoxicity."
+    ],
+    "safety_notes": [
+      "Simultaneous co-infection of flowers by both bacterial and fungal pathogens can accelerate the severity of tissue necrosis and complete flower cluster abortion."
+    ],
+    "sources": [
+      {
+        "title": "X. fragariae and C. cladosporioides cause strawberry blossom blight",
+        "organization": "California Agriculture (University of California)",
+        "url": "https://scispace.com/pdf/x-fragariaeandc-cladosporioidescause-strawberry-blossom-3j21zrcm14.pdf"
+      },
+      {
+        "title": "Botrytis Fruit Rot | NYSIPM Fact Sheet",
+        "organization": "Cornell University CALS",
+        "url": "https://cals.cornell.edu/integrated-pest-management/outreach-education/fact-sheets/botrytis-fruit-rot"
+      }
+    ]
+  },
+  {
+    "crop_name": "Strawberry",
+    "class_name": "Powdery Mildew Fruit",
+    "is_healthy": false,
+    "description": "The fruit-infecting phase of powdery mildew, which colonizes floral organs and both immature and mature fruit, leading to significant downgrading of fruit quality and marketable yield.",
+    "pathogen": "Podosphaera aphanis",
+    "symptoms": [
+      "Fungal colonization of flowers leading to aborted, misshapen, or malformed fruit development.",
+      "White, fuzzy mycelial growth covering the achenes (seeds) on the surface of older fruit.",
+      "Loss of fruit gloss, drying out of the fruit surface, and severe reduction in fresh-market visual quality."
+    ],
+    "affected_parts": [
+      "Fruit",
+      "Flowers",
+      "Achenes"
+    ],
+    "favorable_conditions": [
+      "Moderate to high humidity combined with warm daytime temperatures (60°F to 80°F).",
+      "Absence of free liquid water on the fruit surface, making covered or greenhouse cultures highly vulnerable."
+    ],
+    "spread": [
+      "Wind-blown conidia moving from infected foliar canopies onto newly developing fruit structures."
+    ],
+    "prevention": [
+      "Plant cultivars known to express fruit-phase resistance to powdery mildew."
+    ],
+    "integrated_management": [
+      "Perform intensive early-season scouting of leaves to manage the disease before fruit formation occurs.",
+      "Ensure proper plant row orientation to allow maximum sunlight penetration into the fruiting zone."
+    ],
+    "treatment": [
+      "Apply protective elemental sulfur sprays early in the season before visible fruit symptoms occur.",
+      "Utilize systemic fungicides like pyraclostrobin + fluxapyroxad or fluopyram, adhering to pre-harvest intervals (PHI)."
+    ],
+    "safety_notes": [
+      "Because the fruit phase is highly difficult to suppress once established on the achenes, management must focus entirely on preventing vegetative populations from building up."
+    ],
+    "sources": [
+      {
+        "title": "Powdery Mildew of Strawberry",
+        "organization": "University of Florida IFAS Extension",
+        "url": "https://ask.ifas.ufl.edu/publication/PP129"
+      }
+    ]
+  },
+  {
+    "crop_name": "Strawberry",
+    "class_name": "Anthracnose Fruit Rot",
+    "is_healthy": false,
+    "description": "One of the most destructive warm-weather diseases impacting strawberry production, causing distinct firm, sunken dark rot lesions directly on green and ripening fruit.",
+    "pathogen": "Colletotrichum acutatum",
+    "symptoms": [
+      "Small (1/16 to 1/8 inch), hard, sunken, dark brown or black lesions on immature green fruit.",
+      "Larger (1/8 to 1/2 inch), circular, firm, sunken tan-to-dark brown lesions on ripening fruit.",
+      "Under warm, humid, or wet weather, lesions produce a sticky, light orange, salmon, or pink mucilaginous mass of millions of spores.",
+      "Under completely dry conditions, infected fruit becomes deeply sunken, blackens, and dries up completely into a mummified berry.",
+      "Developing fruit remains small, hard, and misshapen if infection occurs immediately post-pollination."
+    ],
+    "affected_parts": [
+      "Fruit",
+      "Flowers",
+      "Pedicels",
+      "Calyxes"
+    ],
+    "favorable_conditions": [
+      "Unusually warm weather combined with frequent rainfall or overhead irrigation.",
+      "Optimum temperatures around 68°F (20°C) specifically for fruit infection by C. acutatum.",
+      "Prolonged leaf and fruit wetness durations."
+    ],
+    "spread": [
+      "Introduction of latent, entirely asymptomatic infections on nursery runner plants and plugs.",
+      "Water splash from wind-driven rain or overhead irrigation moving conidia from leaves to fruit.",
+      "Contaminated farm equipment, harvesters, and field workers moving through rows, especially when plants are wet."
+    ],
+    "prevention": [
+      "Source transplants from certified micropropagated pathogen-free programs.",
+      "Utilize less susceptible cultivars (e.g., 'Sweet Charlie' or 'Bish') where regionally appropriate."
+    ],
+    "integrated_management": [
+      "Strictly avoid overhead irrigation; implement drip irrigation systems.",
+      "Apply clean straw mulch to minimize the springboard effect of water droplets on plastic mulch.",
+      "Enforce strict field sanitation: cull infected plants and remove all mummified fruit.",
+      "Always work fields from clean areas to infected areas, picking infested zones last to limit mechanical transfer.",
+      "Rotate out of strawberries for at least 2 to 3 years to let soil inoculum loads decline."
+    ],
+    "treatment": [
+      "Apply protective fungicides (e.g., captan) starting pre-bloom and continuing through harvest.",
+      "Use systemic strobilurin fungicides (e.g., azoxystrobin, pyraclostrobin) or combination products during high-risk periods, unless pathogen resistance is confirmed.",
+      "Time sprays precisely using data-driven web tools like the Strawberry Advisory System (StAS)."
+    ],
+    "safety_notes": [
+      "A single infected berry can produce hundreds of thousands of conidia, causing explosive field epidemics if mismanaged.",
+      "Do not apply captan in direct combination with, immediately before, or closely following oil sprays due to phytotoxicity risks."
+    ],
+    "sources": [
+      {
+        "title": "Managing Anthracnose in Strawberry",
+        "organization": "Purdue University Extension",
+        "url": "https://fff.hort.purdue.edu/article/managing-anthracnose-in-strawberry/"
+      },
+      {
+        "title": "Anthracnose Fruit Rot of Strawberry",
+        "organization": "University of Florida IFAS Extension",
+        "url": "https://www.growables.org/information/TropicalFruit/documents/StrawberryAnthracnoseEdis.pdf"
+      },
+      {
+        "title": "Anthracnose Fruit Rot of Strawberry",
+        "organization": "NC State Extension",
+        "url": "https://content.ces.ncsu.edu/anthracnose-fruit-rot-of-strawberry"
+      }
+    ]
+  }
+]

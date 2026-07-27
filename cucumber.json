@@ -1,0 +1,1496 @@
+[
+  {
+    "plant": "Cucumber (Cucumis sativus)",
+    "disease": "Healthy",
+    "scientific_name": "N/A",
+    "disease_type": "N/A",
+    "pathogen": "N/A",
+    "severity": "None",
+    "affected_parts": [
+      "Leaves",
+      "Stems",
+      "Roots",
+      "Fruits",
+      "Flowers"
+    ],
+    "symptoms": [
+      "Turgid, dark green leaves",
+      "Sturdy, fibrous stems without lesions",
+      "Uniformly shaped fruits with typical color",
+      "Vibrant yellow flowers",
+      "White, well-branched root system"
+    ],
+    "early_stage": [
+      "Cotyledons fully expanded and green",
+      "True leaves showing uniform venation",
+      "Active apical growth"
+    ],
+    "advanced_stage": [
+      "Vigorous lateral branching",
+      "Abundant flowering and balanced fruit set",
+      "Healthy canopy closure"
+    ],
+    "causes": [
+      "Optimal environmental conditions",
+      "Balanced crop nutrition",
+      "Proper cultural management"
+    ],
+    "favorable_conditions": [
+      "Temperature 22-28°C",
+      "Relative humidity 60-70%",
+      "Well-drained sandy loam soil with pH 6.0-6.8",
+      "Adequate solar radiation"
+    ],
+    "spread_method": [
+      "N/A"
+    ],
+    "prevention": [
+      "Use certified disease-free seeds",
+      "Implement a 3-year crop rotation with non-cucurbits",
+      "Maintain field sanitation",
+      "Optimize plant spacing for airflow"
+    ],
+    "treatment": [
+      "Maintain optimal growing conditions"
+    ],
+    "organic_control": [
+      "Apply compost tea to boost plant immunity",
+      "Use preventative bio-rational sprays like Bacillus subtilis"
+    ],
+    "chemical_control": [
+      "None required"
+    ],
+    "recommended_fungicides": [],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [
+      "Bacillus subtilis",
+      "Trichoderma harzianum (for root health)"
+    ],
+    "nutrition_recommendations": [
+      "Apply N-P-K based on soil testing",
+      "Ensure adequate Calcium and Magnesium to prevent physiological disorders",
+      "Maintain proper trace elements (Boron, Zinc)"
+    ],
+    "irrigation_recommendations": [
+      "Use drip irrigation to keep foliage dry",
+      "Schedule irrigation based on soil moisture sensors to avoid waterlogging"
+    ],
+    "monitoring": [
+      "Scout field twice weekly for any signs of pests or anomalies",
+      "Monitor electrical conductivity (EC) and pH of irrigation water"
+    ],
+    "economic_importance": "Maximum marketable yield and premium fruit quality achieved under healthy conditions.",
+    "risk_level": "Low",
+    "diagnosis_notes": [
+      "Plant exhibiting full vigor, typical phenotypic characteristics of the cultivar, and no biotic or abiotic lesions."
+    ],
+    "similar_diseases": [],
+    "references": [
+      "APS Compendium of Cucurbit Diseases",
+      "USDA Cucumber Production Guide",
+      "CABI Crop Protection Compendium"
+    ]
+  },
+  {
+    "plant": "Cucumber (Cucumis sativus)",
+    "disease": "Angular Leaf Spot",
+    "scientific_name": "Pseudomonas syringae pv. lachrymans",
+    "disease_type": "Bacterial",
+    "pathogen": "Pseudomonas syringae pv. lachrymans",
+    "severity": "Moderate to High",
+    "affected_parts": [
+      "Leaves",
+      "Stems",
+      "Fruits"
+    ],
+    "symptoms": [
+      "Angular, water-soaked lesions on leaves bounded by veins",
+      "White crusty exudate on lesions when dry",
+      "Circular, water-soaked lesions on fruits that may crack and rot"
+    ],
+    "early_stage": [
+      "Small, water-soaked spots on the undersides of leaves"
+    ],
+    "advanced_stage": [
+      "Lesion centers dry out, turn brown, and drop out, creating a 'shothole' appearance",
+      "Fruit rot extending into the seed cavity"
+    ],
+    "causes": [
+      "Bacterial colonization via stomata or wounds",
+      "Infected seed or crop debris"
+    ],
+    "favorable_conditions": [
+      "Warm temperatures (24-28°C)",
+      "High relative humidity",
+      "Frequent rainfall or overhead irrigation"
+    ],
+    "spread_method": [
+      "Wind-splashed rain",
+      "Contaminated farm machinery and tools",
+      "Workers handling wet plants"
+    ],
+    "prevention": [
+      "Plant resistant varieties",
+      "Use certified pathogen-free seed",
+      "Avoid overhead irrigation",
+      "Practice a 2-year crop rotation"
+    ],
+    "treatment": [
+      "Remove infected plant debris immediately after harvest",
+      "Apply preventative copper treatments early in the season"
+    ],
+    "organic_control": [
+      "Copper hydroxide or copper oxychloride formulations",
+      "Bacillus subtilis based bio-bactericides"
+    ],
+    "chemical_control": [
+      "Fixed copper sprays mixed with mancozeb for enhanced efficacy"
+    ],
+    "recommended_fungicides": [
+      "Mancozeb (used as a synergist with copper)"
+    ],
+    "recommended_bactericides": [
+      "Copper Hydroxide",
+      "Copper Oxychloride",
+      "Streptomycin sulfate"
+    ],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [
+      "Bacillus amyloliquefaciens strain D747",
+      "Pseudomonas fluorescens"
+    ],
+    "nutrition_recommendations": [
+      "Avoid excessive nitrogen application which produces succulent, susceptible tissue",
+      "Ensure adequate potassium levels to strengthen cell walls"
+    ],
+    "irrigation_recommendations": [
+      "Strictly utilize drip irrigation",
+      "Avoid irrigation during late afternoon to prevent extended leaf wetness overnight"
+    ],
+    "monitoring": [
+      "Scout weekly starting from seedling emergence, paying close attention to lower leaves and leaf undersides during wet periods"
+    ],
+    "economic_importance": "Can cause significant defoliation and direct fruit quality degradation, leading to yield losses up to 30-50% in severe epidemics.",
+    "risk_level": "High",
+    "diagnosis_notes": [
+      "Angular shape of lesions restricted by leaf veins is highly diagnostic, distinguishing it from fungal leaf spots which are usually circular."
+    ],
+    "similar_diseases": [
+      "Downy Mildew",
+      "Anthracnose"
+    ],
+    "references": [
+      "APS Compendium of Cucurbit Diseases",
+      "CABI Crop Protection Compendium",
+      "University of Florida Extension IFAS"
+    ]
+  },
+  {
+    "plant": "Cucumber (Cucumis sativus)",
+    "disease": "Anthracnose",
+    "scientific_name": "Colletotrichum orbiculare",
+    "disease_type": "Fungal",
+    "pathogen": "Colletotrichum orbiculare",
+    "severity": "High",
+    "affected_parts": [
+      "Leaves",
+      "Stems",
+      "Fruits"
+    ],
+    "symptoms": [
+      "Circular, yellowish or water-soaked spots on leaves that turn brown",
+      "Elongated, sunken lesions on stems",
+      "Circular, sunken weeping lesions on fruits with pinkish/orange spore masses in wet weather"
+    ],
+    "early_stage": [
+      "Small, yellowish water-soaked leaf spots that rapidly enlarge"
+    ],
+    "advanced_stage": [
+      "Centers of leaf spots crack and drop out",
+      "Vines die back",
+      "Fruits develop deep black or pinkish gelatinous craters"
+    ],
+    "causes": [
+      "Fungal spore germination penetrating plant cuticle",
+      "Overwintering in crop residue or weed hosts"
+    ],
+    "favorable_conditions": [
+      "Warm temperatures (22-27°C)",
+      "High humidity",
+      "Frequent rain or overhead watering"
+    ],
+    "spread_method": [
+      "Splashing rain or irrigation water",
+      "Field equipment",
+      "Insects and field workers"
+    ],
+    "prevention": [
+      "Use certified seed",
+      "Grow resistant varieties",
+      "Practice a 3-year crop rotation",
+      "Plow down crop residues immediately after harvest"
+    ],
+    "treatment": [
+      "Apply protective and curative fungicides upon first symptom observation"
+    ],
+    "organic_control": [
+      "Copper-based fungicides",
+      "Potassium bicarbonate",
+      "Neem oil for suppression"
+    ],
+    "chemical_control": [
+      "Fungicide sprays at regular intervals during high risk periods"
+    ],
+    "recommended_fungicides": [
+      "Chlorothalonil",
+      "Azoxystrobin",
+      "Mancozeb",
+      "Pyraclostrobin"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [
+      "Bacillus subtilis",
+      "Trichoderma harzianum"
+    ],
+    "nutrition_recommendations": [
+      "Maintain adequate calcium levels to improve fruit cell wall integrity"
+    ],
+    "irrigation_recommendations": [
+      "Implement drip irrigation",
+      "Schedule watering early in the morning so the canopy dries quickly"
+    ],
+    "monitoring": [
+      "Regularly check the mid-canopy and ripening fruit for sunken spots, especially after prolonged rainy spells"
+    ],
+    "economic_importance": "Can decimate an entire crop if left unchecked, rendering fruits unmarketable due to deep, rotting lesions.",
+    "risk_level": "High",
+    "diagnosis_notes": [
+      "Pinkish-orange slimy spore masses inside sunken fruit lesions are a definitive field diagnostic indicator."
+    ],
+    "similar_diseases": [
+      "Angular Leaf Spot",
+      "Target Leaf Spot",
+      "Scab"
+    ],
+    "references": [
+      "APS Compendium of Cucurbit Diseases",
+      "USDA ARS Research Updates",
+      "Purdue University Extension"
+    ]
+  },
+  {
+    "plant": "Cucumber (Cucumis sativus)",
+    "disease": "Belly Rot",
+    "scientific_name": "Rhizoctonia solani",
+    "disease_type": "Fungal",
+    "pathogen": "Rhizoctonia solani",
+    "severity": "Moderate to High",
+    "affected_parts": [
+      "Fruits",
+      "Stems"
+    ],
+    "symptoms": [
+      "Sunken, brown, dry, and cracked lesions on the underside of cucumber fruits in contact with the soil",
+      "Yellowing and rotting of fruit tissues under the skin"
+    ],
+    "early_stage": [
+      "Small, yellowish-brown superficial lesions on the fruit surface touching the soil"
+    ],
+    "advanced_stage": [
+      "Lesions expand, become dark brown, leathery, and deeply cracked, allowing secondary soft-rot pathogens to enter"
+    ],
+    "causes": [
+      "Soil-borne fungus directly invading the fruit cuticle when in contact with moist soil"
+    ],
+    "favorable_conditions": [
+      "Warm soil temperatures (25-30°C)",
+      "High soil moisture",
+      "Poor soil drainage"
+    ],
+    "spread_method": [
+      "Direct contact with infested soil",
+      "Splashing water carrying soil particles onto lower fruits"
+    ],
+    "prevention": [
+      "Use plastic mulch to create a barrier between fruit and soil",
+      "Improve soil drainage",
+      "Cultivate gently to avoid injuring roots and low-hanging vines"
+    ],
+    "treatment": [
+      "Apply soil-directed fungicides prior to vine tipping and fruit set"
+    ],
+    "organic_control": [
+      "Apply Trichoderma species to the soil before planting",
+      "Use bio-rational mulch systems"
+    ],
+    "chemical_control": [
+      "Pre-sprouting or early vine soil-directed fungicide applications"
+    ],
+    "recommended_fungicides": [
+      "Azoxystrobin",
+      "Fludioxonil",
+      "PCNB (Quintozene)"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [
+      "Trichoderma harzianum",
+      "Bacillus velezensis"
+    ],
+    "nutrition_recommendations": [
+      "Avoid excess nitrogen that promotes dense, ground-hugging vegetative growth"
+    ],
+    "irrigation_recommendations": [
+      "Avoid over-irrigation during fruit sizing",
+      "Use plastic mulches combined with subsurface drip lines"
+    ],
+    "monitoring": [
+      "Turn over lower-canopy cucumbers during scouting to check the ground-facing side for early skin lesions"
+    ],
+    "economic_importance": "Causes severe direct losses in processing/pickling cucumbers where fruits sit directly on the ground, often causing 20-40% yield reductions.",
+    "risk_level": "Moderate",
+    "diagnosis_notes": [
+      "Lesions are typically dry, crater-like, and restricted to the side of the cucumber that was resting on the ground."
+    ],
+    "similar_diseases": [
+      "Pythium Fruit Rot",
+      "Anthracnose"
+    ],
+    "references": [
+      "APS Compendium of Cucurbit Diseases",
+      "North Carolina State Extension Plant Pathology",
+      "CABI Compendium"
+    ]
+  },
+  {
+    "plant": "Cucumber (Cucumis sativus)",
+    "disease": "Bacterial Wilt",
+    "scientific_name": "Erwinia tracheiphila",
+    "disease_type": "Bacterial",
+    "pathogen": "Erwinia tracheiphila",
+    "severity": "Critical",
+    "affected_parts": [
+      "Leaves",
+      "Stems",
+      "Vascular System"
+    ],
+    "symptoms": [
+      "Individual leaves wilt during the day and recover at night, eventually leading to permanent wilting of the entire vine",
+      "Sticky white bacterial strands stretch when cut stems are pulled apart"
+    ],
+    "early_stage": [
+      "Dull green patches on leaves followed by rapid wilting of single leaves or individual runners"
+    ],
+    "advanced_stage": [
+      "Total collapse and death of the entire plant, vascular bundling turns brown and darkens"
+    ],
+    "causes": [
+      "Bacterial colonization and plugging of the xylem vessels, vectored primarily by cucumber beetles"
+    ],
+    "favorable_conditions": [
+      "Warm conditions favoring vector activity (20-30°C)",
+      "Spring and early summer months"
+    ],
+    "spread_method": [
+      "Striped cucumber beetle (Acalymma vittatum)",
+      "Spotted cucumber beetle (Diabrotica undecimpunctata)"
+    ],
+    "prevention": [
+      "Strict control of cucumber beetle vectors from cotyledon stage",
+      "Use row covers to exclude insects",
+      "Plant tolerant varieties"
+    ],
+    "treatment": [
+      "Infected plants cannot be cured and must be rogued out immediately to protect remaining crop"
+    ],
+    "organic_control": [
+      "Kaolin clay to deter beetle feeding",
+      "Pyrethrin-based organic insecticides for beetle knockdown",
+      "Yellow sticky traps"
+    ],
+    "chemical_control": [
+      "Systemic neonicotinoids applied at planting or foliar pyrethroids for beetle control"
+    ],
+    "recommended_fungicides": [],
+    "recommended_bactericides": [
+      "Copper formulations (provides minor suppression of secondary spread, but ineffective against systemic infection)"
+    ],
+    "recommended_insecticides": [
+      "Imidacloprid",
+      "Acetamiprid",
+      "Bifenthrin",
+      "Carbaryl"
+    ],
+    "recommended_biological_control": [
+      "Entomopathogenic nematodes for beetle larvae in soil"
+    ],
+    "nutrition_recommendations": [
+      "Ensure balanced growth; fast-growing succulent plants are highly attractive to the beetle vectors"
+    ],
+    "irrigation_recommendations": [
+      "Irrigation cannot reverse the wilt, as xylem vessels are blocked by bacterial slime"
+    ],
+    "monitoring": [
+      "Daily scouting for cucumber beetles early in the season, checking cotyledons and whorls. Threshold is typically 1 beetle per plant."
+    ],
+    "economic_importance": "Devastating disease that can destroy 100% of susceptible cucumber plantings once the vector population establishes.",
+    "risk_level": "Critical",
+    "diagnosis_notes": [
+      "The 'string test' is highly reliable: cut a wilted stem near the base, press the cut ends together, and slowly pull them apart to look for sticky, thread-like bacterial strands."
+    ],
+    "similar_diseases": [
+      "Fusarium Wilt",
+      "Phytophthora Crown Rot",
+      "Squash Vine Borer damage"
+    ],
+    "references": [
+      "APS Compendium of Cucurbit Diseases",
+      "Cornell Cooperative Extension Disease Factsheets",
+      "Ohio State University Extension"
+    ]
+  },
+  {
+    "plant": "Cucumber (Cucumis sativus)",
+    "disease": "Downy Mildew",
+    "scientific_name": "Pseudoperonospora cubensis",
+    "disease_type": "Oomycete",
+    "pathogen": "Pseudoperonospora cubensis",
+    "severity": "Critical",
+    "affected_parts": [
+      "Leaves"
+    ],
+    "symptoms": [
+      "Angular, chlorotic (yellow) lesions on the upper leaf surface bounded by veins",
+      "Purplish-grey downy sporulation on the underside of the leaf under humid conditions",
+      "Leaves curl upward and die quickly"
+    ],
+    "early_stage": [
+      "Faint, angular, pale green to yellow spots appearing on upper surfaces of older leaves"
+    ],
+    "advanced_stage": [
+      "Lesions coalesce, turning brown and necrotic, giving the entire field a scorched or 'burned' appearance"
+    ],
+    "causes": [
+      "Obligate oomycete infection thriving on leaf wetness and moving via windblown sporangia"
+    ],
+    "favorable_conditions": [
+      "Cool to warm temperatures (15-25°C)",
+      "High relative humidity (>90%)",
+      "Prolonged leaf wetness from dew or rain"
+    ],
+    "spread_method": [
+      "Windborne sporangia carried over long distances",
+      "Splashing water locally"
+    ],
+    "prevention": [
+      "Grow resistant cultivars",
+      "Maximize row spacing and orient rows with prevailing winds",
+      "Avoid overhead irrigation"
+    ],
+    "treatment": [
+      "Initiate preventative and curative oomycete-targeted spray programs based on regional forecasting models"
+    ],
+    "organic_control": [
+      "Copper fungicides",
+      "Bacillus subtilis",
+      "Reynoutria sachalinensis (Giant Knotweed extract)"
+    ],
+    "chemical_control": [
+      "Strict rotation of systemic and protectant oomycete fungicides to manage resistance development"
+    ],
+    "recommended_fungicides": [
+      "Fluopicolide",
+      "Cyazofamid",
+      "Propamocarb",
+      "Mefenoxam",
+      "Mancozeb"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [
+      "Bacillus amyloliquefaciens",
+      "Trichoderma harzianum"
+    ],
+    "nutrition_recommendations": [
+      "Maintain adequate potassium and silicon to enhance structural leaf resistance"
+    ],
+    "irrigation_recommendations": [
+      "Use drip lines exclusively",
+      "Irrigate in the early morning to minimize the duration of nocturnal leaf wetness"
+    ],
+    "monitoring": [
+      "Utiligate downy mildew forecasting networks (e.g., Cucurbit Downy Mildew Forecast). Scout lower, older leaves daily during high-risk weather."
+    ],
+    "economic_importance": "One of the most destructive foliar diseases of cucurbits worldwide, capable of killing a healthy crop within days and causing total yield failure.",
+    "risk_level": "Critical",
+    "diagnosis_notes": [
+      "The strict confinement of yellow lesions to the geometric boundaries of leaf veins, combined with dark purplish-gray fuzz underneath, confirms Downy Mildew."
+    ],
+    "similar_diseases": [
+      "Angular Leaf Spot",
+      "Powdery Mildew",
+      "Plasmopara viticola (in grapes, distinct)"
+    ],
+    "references": [
+      "Cucurbit Downy Mildew Forecasting Center",
+      "APS Compendium of Cucurbit Diseases",
+      "North Carolina State University Plant Pathology System"
+    ]
+  },
+  {
+    "plant": "Cucumber (Cucumis sativus)",
+    "disease": "Powdery Mildew",
+    "scientific_name": "Podosphaera xanthii",
+    "disease_type": "Fungal",
+    "pathogen": "Podosphaera xanthii (syn. P. fusca) & Golovinomyces cichoracearum",
+    "severity": "High",
+    "affected_parts": [
+      "Leaves",
+      "Petioles",
+      "Stems"
+    ],
+    "symptoms": [
+      "White, talcum powder-like fungal spots on both upper and lower leaf surfaces, petioles, and stems",
+      "Leaves eventually turn yellow, brown, and become brittle"
+    ],
+    "early_stage": [
+      "Small, circular white talcose spots on the undersides of older leaves or shaded parts of the canopy"
+    ],
+    "advanced_stage": [
+      "Entire leaves and stems are coated in a white powdery mat; leaves dry up completely, leading to sunscalded fruit"
+    ],
+    "causes": [
+      "Ectoparasitic fungal development deriving nutrients from epidermal cells via haustoria"
+    ],
+    "favorable_conditions": [
+      "Warm temperatures (20-27°C)",
+      "High humidity for spore germination, but dry conditions for spore dispersal",
+      "Shaded canopies"
+    ],
+    "spread_method": [
+      "Wind-blown conidia moving easily through air currents"
+    ],
+    "prevention": [
+      "Plant highly resistant or tolerant commercial hybrids",
+      "Ensure excellent air circulation through proper pruning and staking"
+    ],
+    "treatment": [
+      "Apply preventative and systemic fungicides at the very first sign of colonies"
+    ],
+    "organic_control": [
+      "Sulfur dusts or sprays",
+      "Horticultural oils",
+      "Potassium bicarbonate formulations"
+    ],
+    "chemical_control": [
+      "Use targeted systemic fungicides (FRAC codes 3, 7, 11, 13) rotated carefully to prevent rapid resistance development"
+    ],
+    "recommended_fungicides": [
+      "Myclobutanil",
+      "Trifloxystrobin",
+      "Quinoxyfen",
+      "Boscalid",
+      "Sulfur"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [
+      "Ampelomyces quisqualis (a natural mycoparasite)",
+      "Bacillus subtilis"
+    ],
+    "nutrition_recommendations": [
+      "Avoid excessive nitrogen that causes dense lush growth",
+      "Silicon fertilization can help reduce fungal penetration"
+    ],
+    "irrigation_recommendations": [
+      "Overhead irrigation actually washes away spores and inhibits this specific fungus, but is discouraged due to other diseases. Maintain steady drip irrigation."
+    ],
+    "monitoring": [
+      "Scout the undersides of older leaves and shaded interior crown leaves twice a week throughout summer."
+    ],
+    "economic_importance": "Very common and destructive disease; leads to premature defoliation, reduced fruit size, short harvest windows, and lower sugar content.",
+    "risk_level": "High",
+    "diagnosis_notes": [
+      "The unmistakable white, powdery coating on leaf surfaces makes field diagnosis straightforward. Spores can be wiped off with a finger."
+    ],
+    "similar_diseases": [
+      "Downy Mildew (which has darker, angular downy growth underneath, not white powder)"
+    ],
+    "references": [
+      "APS Compendium of Cucurbit Diseases",
+      "University of California IPM Guidelines",
+      "EPPO Global Database"
+    ]
+  },
+  {
+    "plant": "Cucumber (Cucumis sativus)",
+    "disease": "Gummy Stem Blight",
+    "scientific_name": "Stagonosporopsis cucurbitacearum",
+    "disease_type": "Fungal",
+    "pathogen": "Stagonosporopsis cucurbitacearum (syn. Didymella bryoniae)",
+    "severity": "High",
+    "affected_parts": [
+      "Stems",
+      "Leaves",
+      "Fruits"
+    ],
+    "symptoms": [
+      "Water-soaked lesions on stems, transitioning to tan/brown lesions with gummy, reddish-brown exudate",
+      "Leaves show large circular dark brown spots",
+      "Black pin-point fruiting bodies (pycnidia) appear on infected tissues",
+      "Black rot on the blossom end of fruits"
+    ],
+    "early_stage": [
+      "Water-soaked lesions near the stem nodes",
+      "Faint brown spots on leaf margins"
+    ],
+    "advanced_stage": [
+      "Stem girdling, cracking, and vine wilting",
+      "Abundant amber-colored ooze from cankers",
+      "Severe fruit black rot in storage"
+    ],
+    "causes": [
+      "Fungal pathogen entering through wounds, stomata, or hydathodes; overwintering in seed and plant debris"
+    ],
+    "favorable_conditions": [
+      "Warm, wet weather (20-25°C)",
+      "Relative humidity near 100%",
+      "Mechanical wounding or insect damage"
+    ],
+    "spread_method": [
+      "Splashing rain or overhead irrigation dispersing conidia",
+      "Windborne ascospores",
+      "Contaminated pruning tools"
+    ],
+    "prevention": [
+      "Use certified clean seed",
+      "Apply a 2-3 year crop rotation",
+      "Avoid mechanical wounding during pruning and harvesting",
+      "Sanitize all tools"
+    ],
+    "treatment": [
+      "Apply protectant and systemic fungicides at vine-touching stage or immediately following heavy rains"
+    ],
+    "organic_control": [
+      "Copper formulations",
+      "Bacillus subtilis",
+      "Liquid copper octanoate"
+    ],
+    "chemical_control": [
+      "Fungicide mixtures containing both contact protectants and systemic modes of action"
+    ],
+    "recommended_fungicides": [
+      "Chlorothalonil",
+      "Boscalid",
+      "Pyraclostrobin",
+      "Difenoconazole",
+      "Mancozeb"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [
+      "Bacillus amyloliquefaciens",
+      "Trichoderma virens"
+    ],
+    "nutrition_recommendations": [
+      "Maintain adequate calcium and boron levels to ensure strong stem structures resistant to splitting"
+    ],
+    "irrigation_recommendations": [
+      "Avoid overhead irrigation; use drip irrigation scheduled to minimize canopy relative humidity"
+    ],
+    "monitoring": [
+      "Inspect the crown and lowest 3 nodes of the main stem closely for water-soaking or amber ooze, particularly after pruning operations."
+    ],
+    "economic_importance": "Highly economically damaging in both open field and greenhouse production, causing extensive vine decline and severe post-harvest fruit losses (Black Rot).",
+    "risk_level": "High",
+    "diagnosis_notes": [
+      "The presence of tiny black dots (pycnidia/perithecia) embedded within tan stem lesions combined with amber-colored gummy exudate is diagnostic."
+    ],
+    "similar_diseases": [
+      "Fusarium Wilt",
+      "Anthracnose",
+      "Phytophthora Blight"
+    ],
+    "references": [
+      "APS Compendium of Cucurbit Diseases",
+      "University of Georgia Extension Bulletin",
+      "CABI Crop Protection Compendium"
+    ]
+  },
+  {
+    "plant": "Cucumber (Cucumis sativus)",
+    "disease": "Fusarium Wilt",
+    "scientific_name": "Fusarium oxysporum f. sp. cucumerinum",
+    "disease_type": "Fungal",
+    "pathogen": "Fusarium oxysporum f. sp. cucumerinum",
+    "severity": "Critical",
+    "affected_parts": [
+      "Roots",
+      "Vascular System",
+      "Stems"
+    ],
+    "symptoms": [
+      "Damping-off of seedlings",
+      "Stunting and yellowing of older leaves, followed by progressive wilting of the vine",
+      "Dark brown vascular discoloration inside the stem when split open"
+    ],
+    "early_stage": [
+      "Intermittent daytime wilting of lower leaves, which recover during cooler evenings"
+    ],
+    "advanced_stage": [
+      "Permanent wilting of the whole plant, marginal leaf necrosis, and vascular bundle clogging leading to death"
+    ],
+    "causes": [
+      "Soil-borne chlamydospores infecting roots and colonizing the xylem, blocking water transport"
+    ],
+    "favorable_conditions": [
+      "Warm soil temperatures (24-28°C)",
+      "Acidic soils (pH 5.5-6.0)",
+      "Monoculture or short rotations"
+    ],
+    "spread_method": [
+      "Movement of infested soil via machinery, footwear, or water runoff",
+      "Infected transplants"
+    ],
+    "prevention": [
+      "Graft susceptible varieties onto resistant rootstocks (e.g., Cucurbita ficifolia)",
+      "Maintain soil pH around 6.5-7.0",
+      "Use a 5-7 year crop rotation"
+    ],
+    "treatment": [
+      "No curative chemical controls exist for infected plants; soil solarization or fumigation can reduce inoculum loads before planting"
+    ],
+    "organic_control": [
+      "Soil solarization",
+      "Amending soil with high-quality compost to promote suppressive microbes"
+    ],
+    "chemical_control": [
+      "Pre-plant soil fumigation (e.g., Metam sodium) has limited effectiveness but reduces initial spore levels"
+    ],
+    "recommended_fungicides": [
+      "Prothioconazole (applied via drip in some regions, suppression only)"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [
+      "Trichoderma harzianum strain T-22",
+      "Streptomyces lydicus WYEC 108"
+    ],
+    "nutrition_recommendations": [
+      "Use nitrate forms of nitrogen rather than ammonium forms, which suppress the disease",
+      "Apply lime to raise soil pH"
+    ],
+    "irrigation_recommendations": [
+      "Avoid overwatering which induces root stress, but maintain uniform moisture to prevent drought-induced wilting expressions"
+    ],
+    "monitoring": [
+      "Look for patches of stunted, yellowing plants in the field; split open stems of symptomatic plants to look for internal brown streaks."
+    ],
+    "economic_importance": "A major limiting factor in intensive cucumber production regions, often forcing growers to abandon field sites due to long-term persistence of chlamydospores.",
+    "risk_level": "Critical",
+    "diagnosis_notes": [
+      "Vascular discoloration (dark brown running tracks inside the split stem) combined with progressive wilting without external stem cankers clarifies Fusarium over Bacterial Wilt."
+    ],
+    "similar_diseases": [
+      "Bacterial Wilt",
+      "Verticillium Wilt",
+      "Pythium Root Rot"
+    ],
+    "references": [
+      "APS Compendium of Cucurbit Diseases",
+      "FAO Plant Production and Protection Series",
+      "University of California IPM"
+    ]
+  },
+  {
+    "plant": "Cucumber (Cucumis sativus)",
+    "disease": "Pythium Root Rot",
+    "scientific_name": "Pythium spp.",
+    "disease_type": "Oomycete",
+    "pathogen": "Pythium ultimum, Pythium aphanidermatum, Pythium irregulare",
+    "severity": "High",
+    "affected_parts": [
+      "Roots",
+      "Hypocotyl"
+    ],
+    "symptoms": [
+      "Stunted plant growth, yellowing of leaves, wilting during hot periods",
+      "Roots are brown, water-soaked, and the outer cortex sloughs off easily, leaving the inner core"
+    ],
+    "early_stage": [
+      "Slight root tip browning, mild nutrient deficiency appearance on upper leaves, reduced vigor"
+    ],
+    "advanced_stage": [
+      "Complete destruction of feeder roots, dark brown to black mushy root system, plant collapse and death"
+    ],
+    "causes": [
+      "Oomycete zoospores attacking root tips under anaerobic, waterlogged soil conditions"
+    ],
+    "favorable_conditions": [
+      "Waterlogged, poorly drained soils",
+      "High soil temperatures (for P. aphanidermatum) or cold soils (for P. ultimum)"
+    ],
+    "spread_method": [
+      "Recirculating irrigation water in hydroponics",
+      "Motile zoospores swimming through soil water",
+      "Contaminated tools"
+    ],
+    "prevention": [
+      "Improve soil physical structure and drainage",
+      "Avoid planting in low-lying areas",
+      "Use raised beds",
+      "Ensure strict sanitation in greenhouses"
+    ],
+    "treatment": [
+      "Apply targeted anti-oomycete compounds via irrigation or drench at the first sign of root stress"
+    ],
+    "organic_control": [
+      "Trichoderma-based soil applications",
+      "Streptomyces-based biological drenches"
+    ],
+    "chemical_control": [
+      "Fungicides specific to oomycetes applied via chemigation or soil drench"
+    ],
+    "recommended_fungicides": [
+      "Mefenoxam",
+      "Metalaxyl",
+      "Propamocarb",
+      "Propamocarb Hydrochloride",
+      "Cyazofamid"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [
+      "Trichoderma harzianum",
+      "Gliocladium virens",
+      "Bacillus subtilis"
+    ],
+    "nutrition_recommendations": [
+      "Avoid high salinity (high EC) which damages root tips and creates entry points for Pythium"
+    ],
+    "irrigation_recommendations": [
+      "Strictly regulate irrigation schedules using tensiometers; allow soil to dry slightly between waterings; avoid prolonged saturation."
+    ],
+    "monitoring": [
+      "Periodically pull up a few random plants in low spots to check root health (look for bright white roots vs. tan/brown mushy roots)."
+    ],
+    "economic_importance": "Highly destructive in greenhouse hydroponic systems and poorly drained open fields, leading to significant yield reduction and plant mortality.",
+    "risk_level": "High",
+    "diagnosis_notes": [
+      "The 'sloughing-off' test: when pulled, the outer root cortex easily slips off the vascular cylinder like a sleeve, leaving a bare thread behind."
+    ],
+    "similar_diseases": [
+      "Fusarium Root Rot",
+      "Phytophthora Root Rot",
+      "Nematode damage"
+    ],
+    "references": [
+      "APS Compendium of Cucurbit Diseases",
+      "Ohio State University Extension Fact Sheet",
+      "University of Arizona Hydroponic Reports"
+    ]
+  },
+  {
+    "plant": "Cucumber (Cucumis sativus)",
+    "disease": "Damping Off",
+    "scientific_name": "Pythium spp. / Rhizoctonia solani",
+    "disease_type": "Fungal / Oomycete Complex",
+    "pathogen": "Pythium spp., Rhizoctonia solani, Fusarium spp.",
+    "severity": "High to Critical",
+    "affected_parts": [
+      "Seeds",
+      "Seedlings",
+      "Hypocotyl"
+    ],
+    "symptoms": [
+      "Seed rot before emergence (pre-emergence damping-off)",
+      "Seedling stems collapsing at the soil line, causing them to topple over and die (post-emergence damping-off)"
+    ],
+    "early_stage": [
+      "Water-soaked or constricted appearance on the seedling stem just at or below the soil level"
+    ],
+    "advanced_stage": [
+      "Rapid collapse of seedling stems, structural failure, and rapid death of seedling patches"
+    ],
+    "causes": [
+      "Pathogen invasion of vulnerable, non-lignified seedling tissues at the soil line"
+    ],
+    "favorable_conditions": [
+      "Cold, wet soils that delay seed germination",
+      "Excessive seeding depth",
+      "Over-watering seedlings",
+      "Contaminated potting media"
+    ],
+    "spread_method": [
+      "Infested soil, potting mix, or seedling flats",
+      "Splashing water"
+    ],
+    "prevention": [
+      "Use certified pathogen-free potting soil",
+      "Use commercially treated seeds with protective coatings",
+      "Maintain high nursery sanitation",
+      "Provide bottom heat to speed up germination"
+    ],
+    "treatment": [
+      "Discard affected seedling flats immediately; apply protective drenches to adjacent healthy trays"
+    ],
+    "organic_control": [
+      "Seed treatment with Trichoderma or Bacillus powders",
+      "Drenching with copper octanoate"
+    ],
+    "chemical_control": [
+      "Fungicidal seed treatments or preventive drenches immediately after seeding"
+    ],
+    "recommended_fungicides": [
+      "Fludioxonil",
+      "Mefenoxam",
+      "Thiram",
+      "Captan"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [
+      "Streptomyces lydicus",
+      "Trichoderma harzianum"
+    ],
+    "nutrition_recommendations": [
+      "Avoid applying high-nitrogen fertilizers to young seedlings, as this results in tender, soft stems"
+    ],
+    "irrigation_recommendations": [
+      "Water early in the day; allow surface media to dry out between waterings; ensure seedling trays have adequate drainage holes."
+    ],
+    "monitoring": [
+      "Daily inspections of seedling trays or newly emerged fields for circular patches of collapsed plants."
+    ],
+    "economic_importance": "Causes severe stand losses in nurseries and direct-seeded fields, requiring expensive replanting operations and delaying production timelines.",
+    "risk_level": "High",
+    "diagnosis_notes": [
+      "Seedlings pinch sharply at the soil line, look water-soaked at the constriction, and fall over while the leaves are still green."
+    ],
+    "similar_diseases": [
+      "Wireworm damage",
+      "Wind whipping damage",
+      "Salinity burn"
+    ],
+    "references": [
+      "APS Compendium of Cucurbit Diseases",
+      "University of California IPM Nursery Management",
+      "USDA Extension Service"
+    ]
+  },
+  {
+    "plant": "Cucumber (Cucumis sativus)",
+    "disease": "Alternaria Leaf Blight",
+    "scientific_name": "Alternaria cucumerina",
+    "disease_type": "Fungal",
+    "pathogen": "Alternaria cucumerina",
+    "severity": "Moderate",
+    "affected_parts": [
+      "Leaves"
+    ],
+    "symptoms": [
+      "Small, circular, water-soaked spots on older leaves that expand to form concentric rings (target-like pattern) with a yellow halo",
+      "Defoliation occurs under heavy infection"
+    ],
+    "early_stage": [
+      "Small brown spots (1-2 mm) on the upper surface of the oldest leaves"
+    ],
+    "advanced_stage": [
+      "Lesions grow up to 1-2 cm, coalesce, and cause large sections of the leaf to dry out, curl, and drop off"
+    ],
+    "causes": [
+      "Fungal hyphae penetrating senescing or stressed leaf tissues; spores survival on crop debris or volunteer cucurbits"
+    ],
+    "favorable_conditions": [
+      "Warm, humid conditions (20-32°C)",
+      "Frequent dew formation or rainfall followed by dry periods"
+    ],
+    "spread_method": [
+      "Windborne conidia traveling long distances",
+      "Splashing water"
+    ],
+    "prevention": [
+      "Practice a 2-3 year crop rotation",
+      "Plow crop debris deep into the soil after harvest",
+      "Maintain optimal plant health to delay senescence"
+    ],
+    "treatment": [
+      "Apply protective broad-spectrum fungicides upon detection on lower leaves"
+    ],
+    "organic_control": [
+      "Copper fungicides",
+      "Potassium bicarbonate",
+      "Bacillus subtilis"
+    ],
+    "chemical_control": [
+      "Foliar fungicide applications timed before long periods of wet weather"
+    ],
+    "recommended_fungicides": [
+      "Chlorothalonil",
+      "Mancozeb",
+      "Azoxystrobin",
+      "Irodione",
+      "Difenoconazole"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [
+      "Bacillus amyloliquefaciens"
+    ],
+    "nutrition_recommendations": [
+      "Ensure sufficient nitrogen and potassium levels, as nutrient-deficient or senescing plants are much more susceptible to Alternaria"
+    ],
+    "irrigation_recommendations": [
+      "Avoid overhead irrigation; schedule drip systems to avoid late afternoon run times to keep night canopy dry"
+    ],
+    "monitoring": [
+      "Focus scouting on the oldest crown leaves as the plants approach maturity, looking for concentric target rings."
+    ],
+    "economic_importance": "Mainly reduces yield by causing premature defoliation, exposing fruit to sunscald and decreasing sugar concentrations in late-season harvests.",
+    "risk_level": "Moderate",
+    "diagnosis_notes": [
+      "Concentric ring patterning within circular dark brown spots (resembling a target) on old leaves is highly indicative of Alternaria."
+    ],
+    "similar_diseases": [
+      "Target Leaf Spot",
+      "Anthracnose"
+    ],
+    "references": [
+      "APS Compendium of Cucurbit Diseases",
+      "CABI Crop Protection Compendium",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "plant": "Cucumber (Cucumis sativus)",
+    "disease": "Scab",
+    "scientific_name": "Cladosporium cucumerinum",
+    "disease_type": "Fungal",
+    "pathogen": "Cladosporium cucumerinum",
+    "severity": "High",
+    "affected_parts": [
+      "Fruits",
+      "Leaves",
+      "Stems"
+    ],
+    "symptoms": [
+      "Small, water-soaked spots on leaves that turn gray to white",
+      "Fruits develop sunken, dark spots that ooze a gummy substance and later become covered with an olive-green velvety fungal mat"
+    ],
+    "early_stage": [
+      "Tiny water-soaked spots on leaves or young fruit that can be mistaken for insect stings"
+    ],
+    "advanced_stage": [
+      "Deep crater-like cavities on fruit lined with olive-green velvety spores; apical growth tips of stems may die back completely"
+    ],
+    "causes": [
+      "Fungal spore germination on young tissues, overwintering in old vines and seed"
+    ],
+    "favorable_conditions": [
+      "Cool, wet weather (15-21°C)",
+      "High relative humidity or persistent fog"
+    ],
+    "spread_method": [
+      "Windborne conidia",
+      "Insects, equipment, and clothing"
+    ],
+    "prevention": [
+      "The primary management strategy is to plant scab-resistant cucumber cultivars",
+      "Use a 2-year crop rotation",
+      "Select fields with excellent air drainage"
+    ],
+    "treatment": [
+      "Apply protective fungicides immediately if a cool, wet weather pattern sets in during early development"
+    ],
+    "organic_control": [
+      "Copper formulations",
+      "Sulfur treatments (use cautiously due to phytotoxicity risks)"
+    ],
+    "chemical_control": [
+      "Foliar applications of protectant or systemic fungicides targeting the Cladosporium genus"
+    ],
+    "recommended_fungicides": [
+      "Chlorothalonil",
+      "Mancozeb",
+      "Azoxystrobin",
+      "Pyraclostrobin"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [
+      "Bacillus subtilis"
+    ],
+    "nutrition_recommendations": [
+      "Maintain standard balanced fertility, as resistance is heavily driven by genetics rather than nutritional modulation"
+    ],
+    "irrigation_recommendations": [
+      "Minimize leaf wetness periods; avoid evening watering during cool weather blocks."
+    ],
+    "monitoring": [
+      "Look for small, oozing lesions on very young fruits and graying spots on the young leaves near the growing tips."
+    ],
+    "economic_importance": "Can cause massive losses in northern cooler production regions by rendering harvested cucumbers completely unmarketable due to unsightly, weeping cavities.",
+    "risk_level": "High",
+    "diagnosis_notes": [
+      "The olive-green, velvety appearance of the fungus inside a sunken fruit crater is the signature diagnostic feature for Scab."
+    ],
+    "similar_diseases": [
+      "Anthracnose",
+      "Angular Leaf Spot",
+      "Belly Rot"
+    ],
+    "references": [
+      "APS Compendium of Cucurbit Diseases",
+      "Cornell University Plant Disease Diagnostic Clinic",
+      "EPPO Data Sheets"
+    ]
+  },
+  {
+    "plant": "Cucumber (Cucumis sativus)",
+    "disease": "Target Leaf Spot",
+    "scientific_name": "Corynespora cassiicola",
+    "disease_type": "Fungal",
+    "pathogen": "Corynespora cassiicola",
+    "severity": "High",
+    "affected_parts": [
+      "Leaves",
+      "Petioles",
+      "Stems",
+      "Fruits"
+    ],
+    "symptoms": [
+      "Angular to circular spots on leaves with light brown centers and dark brown margins, often showing concentric rings resembling a target",
+      "Severe defoliation can happen"
+    ],
+    "early_stage": [
+      "Small, pinpoint pinpoint chlorotic spots on leaves that rapidly turn tan with a dark boundary"
+    ],
+    "advanced_stage": [
+      "Lesions expand and coalesce, killing large sections of the leaf blade, leading to premature defoliation and yield decline"
+    ],
+    "causes": [
+      "Fungal pathogen exploiting high humidity environments, producing toxic metabolites that induce cell necrosis"
+    ],
+    "favorable_conditions": [
+      "Warm temperatures (25-32°C)",
+      "High relative humidity (>85%)",
+      "Frequent rain or greenhouse condensation"
+    ],
+    "spread_method": [
+      "Windborne conidia",
+      "Splashing water, mechanical movement through the canopy"
+    ],
+    "prevention": [
+      "Plant resistant or tolerant hybrids",
+      "Increase row spacing to allow rapid drying",
+      "Sanitize greenhouses thoroughly between cycles"
+    ],
+    "treatment": [
+      "Apply systemic fungicides early in the disease cycle, ensuring thorough coverage of both upper and lower leaf surfaces"
+    ],
+    "organic_control": [
+      "Copper octanoate",
+      "Bacillus subtilis formulations",
+      "Potassium bicarbonates"
+    ],
+    "chemical_control": [
+      "Foliar applications of SDHI, QoL, or DMI fungicides. Note: resistance to QoI (Strobilurins) is documented in many regions."
+    ],
+    "recommended_fungicides": [
+      "Boscalid",
+      "Fluxapyroxad",
+      "Difenoconazole",
+      "Chlorothalonil",
+      "Laminarin"
+    ],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [],
+    "recommended_biological_control": [
+      "Bacillus amyloliquefaciens",
+      "Trichoderma harzianum"
+    ],
+    "nutrition_recommendations": [
+      "Avoid over-fertilizing with nitrogen which creates a dense, humid microclimate inside the canopy"
+    ],
+    "irrigation_recommendations": [
+      "Utilize drip systems; in greenhouses, manage ventilation and heating to prevent the dew point from being reached on leaf surfaces."
+    ],
+    "monitoring": [
+      "Carefully monitor the lower and mid-canopy leaves for tan spots with distinct dark borders during warm, humid periods."
+    ],
+    "economic_importance": "A major threat in tropical/subtropical field production and global greenhouse facilities, causing swift defoliation and severe reduction in harvest volume.",
+    "risk_level": "High",
+    "diagnosis_notes": [
+      "Spots are often more angular than Alternaria lesions when young, but develop an explicit pale center with dark concentric perimeter rings."
+    ],
+    "similar_diseases": [
+      "Alternaria Leaf Blight",
+      "Downy Mildew",
+      "Angular Leaf Spot"
+    ],
+    "references": [
+      "APS Compendium of Cucurbit Diseases",
+      "University of Florida IFAS Extension EDIS",
+      "CABI Compendium"
+    ]
+  },
+  {
+    "plant": "Cucumber (Cucumis sativus)",
+    "disease": "Cucumber Mosaic Virus (CMV)",
+    "scientific_name": "Cucumber mosaic virus",
+    "disease_type": "Viral",
+    "pathogen": "Cucumber mosaic virus (Bromoviridae family)",
+    "severity": "Critical",
+    "affected_parts": [
+      "Leaves",
+      "Fruits",
+      "Stems",
+      "Whole Plant"
+    ],
+    "symptoms": [
+      "Systemic mosaic or mottling patterns of light and dark green on leaves",
+      "Leaves are distorted, wrinkled, and down-curved (shoestring effect)",
+      "Fruits show distinct green warts and mosaic mottling ('white pickle')"
+    ],
+    "early_stage": [
+      "Mild systemic chlorosis and downward curling of the youngest leaves"
+    ],
+    "advanced_stage": [
+      "Severe plant stunting, small distorted leaves with a shoestring appearance, bumpy and unmarketable white/green mottled fruit"
+    ],
+    "causes": [
+      "Viral replication within host cells, introduced rapidly by aphid vectors during brief probing feeds"
+    ],
+    "favorable_conditions": [
+      "Cool to warm temperatures that favor high aphid populations and activity",
+      "Abundance of alternative weed hosts near fields"
+    ],
+    "spread_method": [
+      "Vectored in a non-persistent manner by more than 60 species of aphids (e.g., Aphis gossypii)",
+      "Mechanical transmission via pruning sap"
+    ],
+    "prevention": [
+      "Plant resistant cucumber hybrids (highly effective)",
+      "Control weeds within 30 meters of the field",
+      "Use reflective silver mulches to repel aphids"
+    ],
+    "treatment": [
+      "Viruses cannot be cured; infected plants must be removed and destroyed immediately to prevent field-wide vector spread"
+    ],
+    "organic_control": [
+      "Mineral oils to interfere with aphid virus transmission",
+      "Insecticidal soaps or neem oil to suppress aphid colonies"
+    ],
+    "chemical_control": [
+      "Insecticides targeting aphids can assist, but often fail to prevent transmission because the virus is transferred within seconds of probing"
+    ],
+    "recommended_fungicides": [],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [
+      "Flonicamid",
+      "Pymetrozine",
+      "Imidacloprid",
+      "Acetamiprid"
+    ],
+    "recommended_biological_control": [
+      "Release of aphid predators like lacewings, ladybugs, or Aphidius parasitic wasps"
+    ],
+    "nutrition_recommendations": [
+      "Provide standard nutrition; avoiding excessive vegetative growth which attracts massive aphid flights"
+    ],
+    "irrigation_recommendations": [
+      "Maintain uniform irrigation to prevent stress, though it will not alter virus progression"
+    ],
+    "monitoring": [
+      "Monitor aphid populations using yellow water pan traps or sticky cards; scout terminal growth tips for early leaf mottling."
+    ],
+    "economic_importance": "Extremely high economic impact worldwide; can cause total failure of marketability due to the 'white pickle' fruit distortion.",
+    "risk_level": "Critical",
+    "diagnosis_notes": [
+      "The combo of severe leaf distortion (shoestringing) and distinctive dark-green warty bumps on pale cucumber fruits is diagnostic for CMV."
+    ],
+    "similar_diseases": [
+      "Zucchini Yellow Mosaic Virus",
+      "Papaya Ringspot Virus",
+      "Watermelon Mosaic Virus"
+    ],
+    "references": [
+      "APS Compendium of Cucurbit Diseases",
+      "CABI Crop Protection Compendium",
+      "University of California IPM Agriculture and Natural Resources"
+    ]
+  },
+  {
+    "plant": "Cucumber (Cucumis sativus)",
+    "disease": "Zucchini Yellow Mosaic Virus (ZYMV)",
+    "scientific_name": "Zucchini yellow mosaic virus",
+    "disease_type": "Viral",
+    "pathogen": "Zucchini yellow mosaic virus (Potyviridae family)",
+    "severity": "Critical",
+    "affected_parts": [
+      "Leaves",
+      "Fruits",
+      "Stems",
+      "Whole Plant"
+    ],
+    "symptoms": [
+      "Severe yellow mosaic and chlorosis on leaves",
+      "Extreme leaf deformation, blistering, and shoestringing",
+      "Extreme plant stunting",
+      "Severely distorted, knobby, and warped fruits"
+    ],
+    "early_stage": [
+      "Vein clearing on the youngest leaves, followed by a bright yellow mottling"
+    ],
+    "advanced_stage": [
+      "Leaves reduced to narrow ribbons (shoestrings), plants stop growing entirely, and fruits become highly distorted with bumpy outgrowths"
+    ],
+    "causes": [
+      "Systemic potyvirus infection introduced into the vascular system by transient aphids"
+    ],
+    "favorable_conditions": [
+      "Warm weather tracking with high aphid vector migrations and heavy alternative weed host pressure"
+    ],
+    "spread_method": [
+      "Non-persistently transmitted by aphid species (e.g., Myzus persicae)",
+      "Easily spread via mechanical pruning and workers' hands"
+    ],
+    "prevention": [
+      "Select modern commercial varieties bred with ZYMV resistance",
+      "Use floating row covers in early growth stages",
+      "Enforce strict tool sanitation"
+    ],
+    "treatment": [
+      "No cure available; isolate and destroy infected plants immediately"
+    ],
+    "organic_control": [
+      "Reflective mulches",
+      "Frequent applications of stylet oils (mineral oils) to disrupt aphid transmission mechanisms"
+    ],
+    "chemical_control": [
+      "Apply aphicides to suppress resident aphid populations, though transmission from migrating insects may still occur"
+    ],
+    "recommended_fungicides": [],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [
+      "Flonicamid",
+      "Thiamethoxam",
+      "Spirotetramat",
+      "Cypermethrin"
+    ],
+    "recommended_biological_control": [
+      "Encourage natural aphid predators like hoverfly larvae and coccinellids"
+    ],
+    "nutrition_recommendations": [
+      "Ensure balanced crop nutrition to optimize baseline plant defenses before insect vector arrival"
+    ],
+    "irrigation_recommendations": [
+      "No specific irrigation requirements can mitigate viral replication."
+    ],
+    "monitoring": [
+      "Scout fields multiple times per week for early systemic vein clearing, paying specific attention to fields located downwind from older cucurbit fields."
+    ],
+    "economic_importance": "Capable of inducing 90-100% loss of marketable fruit in an infected block due to extreme physical fruit malformation.",
+    "risk_level": "Critical",
+    "diagnosis_notes": [
+      "Leaf distortion is typically more severe than CMV, causing dramatic 'bumpy' blisters and deep green anomalies on a highly yellowed leaf background."
+    ],
+    "similar_diseases": [
+      "Cucumber Mosaic Virus",
+      "Papaya Ringspot Virus",
+      "Watermelon Mosaic Virus"
+    ],
+    "references": [
+      "APS Compendium of Cucurbit Diseases",
+      "EPPO Global Database",
+      "University of Florida IFAS Extension"
+    ]
+  },
+  {
+    "plant": "Cucumber (Cucumis sativus)",
+    "disease": "Papaya Ringspot Virus (PRSV-W)",
+    "scientific_name": "Papaya ringspot virus - watermelon strain",
+    "disease_type": "Viral",
+    "pathogen": "Papaya ringspot virus (type W) (Potyviridae family)",
+    "severity": "Critical",
+    "affected_parts": [
+      "Leaves",
+      "Fruits",
+      "Whole Plant"
+    ],
+    "symptoms": [
+      "Prominent mottled mosaic on leaves",
+      "Leaf distortion and narrowing",
+      "Dark green ring spots or knobby bumps on the fruit surface",
+      "Stunted vine elongation"
+    ],
+    "early_stage": [
+      "Mottling and chlorosis along the leaf veins of young terminal shoots"
+    ],
+    "advanced_stage": [
+      "Severe systemic leaf distortion, prominent dark green rings or blotches on stunted, misshapen fruits"
+    ],
+    "causes": [
+      "Potyvirus infection spread via mechanical inoculation or insect vectors"
+    ],
+    "favorable_conditions": [
+      "Environmental factors promoting high populations of migratory aphids, presence of volunteer melons or wild cucurbit weeds"
+    ],
+    "spread_method": [
+      "Non-persistent transmission by various aphid species",
+      "Contaminated hands, harvest knives, and field machinery"
+    ],
+    "prevention": [
+      "Eliminate wild cucurbit weeds (e.g., wild balsam apple) around field borders",
+      "Utilize resistant cultivars if available",
+      "Sanitize tools between plots"
+    ],
+    "treatment": [
+      "Immediate removal and destruction of infected hosts; field cannot be cured chemically"
+    ],
+    "organic_control": [
+      "Reflective silver or aluminum mulches",
+      "Stylet/mineral oil sprays to inhibit viral loading on aphid mouthparts"
+    ],
+    "chemical_control": [
+      "Targeted aphicides to lower localized vector counts, though inadequate for preventing initial transmission from incoming flights"
+    ],
+    "recommended_fungicides": [],
+    "recommended_bactericides": [],
+    "recommended_insecticides": [
+      "Pymetrozine",
+      "Flonicamid",
+      "Lambda-cyhalothrin",
+      "Beta-cyfluthrin"
+    ],
+    "recommended_biological_control": [
+      "Conservation of native predatory insects (e.g., predatory midges, ladybirds)"
+    ],
+    "nutrition_recommendations": [
+      "Maintain adequate plant nutrition to support overall vigor, preventing rapid symptom development"
+    ],
+    "irrigation_recommendations": [
+      "Utilize normal drip irrigation practices to keep plants hydrated and minimize stress expressions."
+    ],
+    "monitoring": [
+      "Examine field edges closest to wild borders for initial signs of mottling or distinct ring-like patterns on young fruit."
+    ],
+    "economic_importance": "Causes severe commercial losses in tropical and subtropical regions where the virus overwinters easily in continuous cropping cycles.",
+    "risk_level": "Critical",
+    "diagnosis_notes": [
+      "The presence of circular, darker green ring-like patterns or concentric color zones on the fruit surface is a key diagnostic differentiator for PRSV-W."
+    ],
+    "similar_diseases": [
+      "Zucchini Yellow Mosaic Virus",
+      "Watermelon Mosaic Virus",
+      "Cucumber Mosaic Virus"
+    ],
+    "references": [
+      "APS Compendium of Cucurbit Diseases",
+      "CABI Crop Protection Compendium",
+      "Texas A&M AgriLife Extension"
+    ]
+  }
+]

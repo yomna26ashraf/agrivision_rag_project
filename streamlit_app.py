@@ -4,14 +4,17 @@ import streamlit as st
 
 rag = import_module("07_prompting")
 
+import openai
+
 try:
     if "OPENROUTER_API_KEY" in st.secrets:
         rag.OPENROUTER_API_KEY = st.secrets["OPENROUTER_API_KEY"]
+        openai.api_key = st.secrets["OPENROUTER_API_KEY"]  # <--- ضيفي السطر ده
     if "OPENROUTER_MODEL" in st.secrets:
         rag.OPENROUTER_MODEL = st.secrets["OPENROUTER_MODEL"]
 except Exception:
     pass
-
+    
 st.set_page_config(page_title="AgriVision RAG Assistant", page_icon="🌱")
 st.title("🌱 AgriVision — Agricultural Disease Assistant")
 st.caption("Ask about cucumber, corn, or strawberry diseases in English or Arabic.")

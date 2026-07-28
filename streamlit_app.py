@@ -9,7 +9,7 @@ try:
         rag.OPENROUTER_API_KEY = st.secrets["OPENROUTER_API_KEY"]
     if "OPENROUTER_MODEL" in st.secrets:
         rag.OPENROUTER_MODEL = st.secrets["OPENROUTER_MODEL"]
-except Exception as e:
+except Exception:
     pass
 
 st.set_page_config(page_title="AgriVision RAG Assistant", page_icon="🌱")

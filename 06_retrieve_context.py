@@ -14,8 +14,9 @@ hybrid_search = import_module("04_vector_representation").hybrid_search
 # ✅ رقم نهائي مبني على قياس حقيقي (calibrate_threshold.py):
 #    سؤال فاضي تمامًا -> 0.056  |  أضعف سؤال حقيقي مغطى -> 0.614
 #    0.35 يفصل بينهم بهامش أمان مريح على الجانبين
-MIN_RAW_EMBEDDING_SCORE = 0.35
-
+#MIN_RAW_EMBEDDING_SCORE = 0.35
+# قللي الرقم عشان يراعي الاختلافات بين البيئات (أو خليه 0.0 يلغيه تماماً):
+MIN_RAW_EMBEDDING_SCORE = 0.10
 
 def build_context(question, k=8, max_sources=3):
     rows = hybrid_search(question, k=k)

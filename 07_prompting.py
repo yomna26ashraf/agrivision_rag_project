@@ -65,7 +65,7 @@ Context:
 def ask_openrouter(prompt):
     client = OpenAI(
         base_url="https://openrouter.ai/api/v1",
-        api_key=OPENROUTER_API_KEY,
+        api_key=OPENROUTER_API_KEY or st.secrets.get("OPENROUTER_API_KEY", ""),
     )
     response = client.chat.completions.create(
         model=OPENROUTER_MODEL,

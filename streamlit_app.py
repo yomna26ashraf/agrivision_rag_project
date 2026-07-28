@@ -5,10 +5,11 @@ import streamlit as st
 rag = import_module("07_prompting")
 
 try:
-    if not rag.OPENROUTER_API_KEY:
-        rag.OPENROUTER_API_KEY = st.secrets.get("OPENROUTER_API_KEY", "")
-    rag.OPENROUTER_MODEL = st.secrets.get("OPENROUTER_MODEL", rag.OPENROUTER_MODEL)
-except Exception:
+    if "OPENROUTER_API_KEY" in st.secrets:
+        rag.OPENROUTER_API_KEY = st.secrets["OPENROUTER_API_KEY"]
+    if "OPENROUTER_MODEL" in st.secrets:
+        rag.OPENROUTER_MODEL = st.secrets["OPENROUTER_MODEL"]
+except Exception as e:
     pass
 
 st.set_page_config(page_title="AgriVision RAG Assistant", page_icon="🌱")
